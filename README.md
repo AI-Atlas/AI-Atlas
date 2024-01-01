@@ -127,6 +127,8 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Chatgot](https://chatgot.io/)  
    Chat Freely, Got Every AI Assistants Here for You.  
 
+---
+
 ## Contribution
 
 The list is not complete and with this growth in the AI industry, there is a lot to add so feel free to contribute and help develop the atlas.
