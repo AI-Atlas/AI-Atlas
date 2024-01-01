@@ -1,6 +1,6 @@
 # AI-Atlas
 
-This is an atlas of AI tools that are available on the web. This directory contains both Free and Paid tools.
+This is an atlas of AI tools that are available on the web. This directory contains both free and paid tools.
 
 ## Category
 
