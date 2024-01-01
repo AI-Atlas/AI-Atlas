@@ -131,7 +131,7 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 ## Contribution
 
-The list is not complete and with this growth in the AI industry, there is a lot to add so feel free to contribute and help develop the atlas.
+The list is not complete also with the speed of the AI industry, there is a lot to add so feel free to contribute and help develop the atlas.
 
 ---
 
