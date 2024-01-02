@@ -4,7 +4,7 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 ## Category
 
-- [Assistance \& Chat {#chat}](#assistance--chat-chat)
+- [Assistance \& Chat](#assistance--chat-chat)
 - [Design \& Art](#design--art)
   - [Image Generator](#image-generator)
   - [User Interface](#user-interface)
