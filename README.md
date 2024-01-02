@@ -5,6 +5,7 @@ This is an atlas of AI tools that are available on the web. This directory conta
 ## Category
 
 - [Assistance \& Chat](#assistance--chat-chat)
+- [Productivity](#productivity)
 - [Design \& Art](#design--art)
   - [Image Generator](#image-generator)
   - [User Interface](#user-interface)
@@ -16,11 +17,12 @@ This is an atlas of AI tools that are available on the web. This directory conta
   - [Site Builder](#site-builder)
 - [Data \& Monitoring](#data--monitoring)
 - [Business \& Marketing](#business--marketing)
+- [Research \& Academic](#research--academic)
 - [Others](#others)
 
 ## List of Tools
 
-### Assistance & Chat {#chat}
+### Assistance & Chat
 
 - [ChatGPT](https://chat.openai.com/)  
    ChatGPT is a sibling model to InstructGPT, which is trained to follow an instruction in a prompt and provide a detailed response.
@@ -36,6 +38,14 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [Microsoft Copilot](https://copilot.microsoft.com/)  
    Microsoft Copilot for Microsoft 365 is a sophisticated processing and orchestration engine that provides AI-powered productivity capabilities.
+
+- [Perplexity](https://perplexity.ai/)  
+   Perplexity AI is a powerful research tool that uses artificial intelligence technology to gather information from multiple sources on the web and provide accurate responses to user questions in natural language. It is designed to be user-friendly, allowing smooth navigation and quick access to relevant information.
+
+### Productivity
+
+- [PopAi](https://www.popai.pro/)  
+   A powerful AI tool that boosts productivity!Besides instant answers, explore search engine integration, PDF reading, Powerpoint generation and more! 
 
 ### Design & Art
 
@@ -122,10 +132,21 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Sentione](https://sentione.com/)  
    Monitor online discussions that matter to your brand. By finding truly relevant insights with AI-based online listening and data analysis engine, you can fully manage your online brand image.
 
+### Research & Academic
+
+- [Google Colab](https://colab.google/)  
+   Colab is a hosted Jupyter Notebook service that requires no setup to use and provides free access to computing resources, including GPUs and TPUs. Colab is especially well suited to machine learning, data science, and education.
+
+- [Explainpaper](https://www.explainpaper.com/)  
+   Upload a paper, highlight confusing text, get an explanation. We make research papers easy to read.
+
 ### Others
 
 - [Chatgot](https://chatgot.io/)  
    Chat Freely, Got Every AI Assistants Here for You.  
+
+- [Future Tools](https://www.futuretools.io/)  
+   FutureTools collects & organizes all the best AI tools so you too can become superhuman!  
 
 ---
 
