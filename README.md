@@ -4,14 +4,16 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 ## Category
 
-- [Assistance \& Chat](#assistance--chat-chat)
+- [Assistance \& Chat](#assistance--chat)
 - [Productivity](#productivity)
-- [Design \& Art](#design--art)
+- [Design \& Creativity](#design--creativity)
   - [Image Generator](#image-generator)
   - [User Interface](#user-interface)
+  - [Video \& Multi-Media](#viedo--multi-media)
   - [3D Modeling](#3d-modeling)
   - [Icon](#icon)
   - [Colors](#colors)
+- [Engineering](#engineering)
 - [Code \& Development](#code--development)
   - [Code Assistance](#code-assistance)
   - [Site Builder](#site-builder)
@@ -47,7 +49,7 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [PopAi](https://www.popai.pro/)  
    A powerful AI tool that boosts productivity!Besides instant answers, explore search engine integration, PDF reading, Powerpoint generation and more! 
 
-### Design & Art
+### Design & Creativity
 
 #### Image Generator
 
@@ -71,10 +73,15 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Studio Design](https://studio.design/)  
    Go further than the speed of thought. STUDIO AI reads and understands your designs, and with nothing more than a single line of feedback, perform complex actions autonomously.
 
+#### Viedo & Multi-Media
+
+- [Runway](https://runwayml.com/)  
+   Runway is an applied AI research company shaping the next era of art, entertainment and human creativity.
+
 #### 3D Modeling
 
 - [Genie](https://lumalabs.ai/genie)  
-    Genie allows anyone to generate realistic 3D models. The new tool can create 3D things from natural language prompts.
+   Genie allows anyone to generate realistic 3D models. The new tool can create 3D things from natural language prompts.
 
 #### Icon
 
@@ -91,6 +98,11 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [Colormind](http://colormind.io/)  
    Generate color combinations in one click. Colormind creates cohesive color schemes using a deep neural net.
+
+### Engineering
+
+- [Leo](https://www.getleo.ai/)  
+   The world's first engineering design copilot powered by generative AI. If you can imagine it, I can design it, from parts to fully assembled products, with 3D CAD models you can edit anywhere.
 
 ### Code & Development
 
@@ -147,6 +159,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [Future Tools](https://www.futuretools.io/)  
    FutureTools collects & organizes all the best AI tools so you too can become superhuman!  
+
+- [WizyChat](https://wizy.chat/#home)  
+   Instant answers for your customers and your team with personalized AI chatbots trained with your data.  
 
 ---
 
