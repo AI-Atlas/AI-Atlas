@@ -44,10 +44,14 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Perplexity](https://perplexity.ai/)  
    Perplexity AI is a powerful research tool that uses artificial intelligence technology to gather information from multiple sources on the web and provide accurate responses to user questions in natural language. It is designed to be user-friendly, allowing smooth navigation and quick access to relevant information.
 
+---
+
 ### Productivity
 
 - [PopAi](https://www.popai.pro/)  
    A powerful AI tool that boosts productivity!Besides instant answers, explore search engine integration, PDF reading, Powerpoint generation and more! 
+
+---
 
 ### Design & Creativity
 
@@ -99,10 +103,14 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Colormind](http://colormind.io/)  
    Generate color combinations in one click. Colormind creates cohesive color schemes using a deep neural net.
 
+---
+
 ### Engineering
 
 - [Leo](https://www.getleo.ai/)  
    The world's first engineering design copilot powered by generative AI. If you can imagine it, I can design it, from parts to fully assembled products, with 3D CAD models you can edit anywhere.
+
+---
 
 ### Code & Development
 
@@ -128,6 +136,8 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [MakeLanding](https://makelanding.ai/)  
    Write about your project and get an entire landing page generated in seconds! Copy that sells, unique logo and illustrations, beautiful icons.
 
+---
+
 ### Data & Monitoring
 
 - [Browse AI](https://www.browse.ai/)  
@@ -135,6 +145,8 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [Picarta](https://picarta.ai/)  
    Predict where a photo has been taken in the world using Artificial Intelligence.
+
+---
 
 ### Business & Marketing
 
@@ -144,6 +156,8 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Sentione](https://sentione.com/)  
    Monitor online discussions that matter to your brand. By finding truly relevant insights with AI-based online listening and data analysis engine, you can fully manage your online brand image.
 
+---
+
 ### Research & Academic
 
 - [Google Colab](https://colab.google/)  
@@ -151,6 +165,8 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [Explainpaper](https://www.explainpaper.com/)  
    Upload a paper, highlight confusing text, get an explanation. We make research papers easy to read.
+
+---
 
 ### Others
 
