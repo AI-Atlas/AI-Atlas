@@ -4,27 +4,27 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 ## Category
 
-- [Assistance \& Chat](#assistance--chat)
-- [Productivity](#productivity)
-- [Design \& Creativity](#design--creativity)
+- [Assistance \& Chat](#-assistance--chat)
+- [Productivity](#-productivity)
+- [Design \& Creativity](#-design--creativity)
   - [Image Generator](#image-generator)
   - [User Interface](#user-interface)
   - [Video \& Multi-Media](#viedo--multi-media)
   - [3D Modeling](#3d-modeling)
   - [Icon](#icon)
   - [Colors](#colors)
-- [Engineering](#engineering)
-- [Code \& Development](#code--development)
+- [Engineering](#-engineering)
+- [Code \& Development](#-code--development)
   - [Code Assistance](#code-assistance)
   - [Site Builder](#site-builder)
-- [Data \& Monitoring](#data--monitoring)
-- [Business \& Marketing](#business--marketing)
-- [Research \& Academic](#research--academic)
-- [Others](#others)
+- [Data \& Monitoring](#-data--monitoring)
+- [Business \& Marketing](#-business--marketing)
+- [Research \& Academic](#-research--academic)
+- [Others](#-others)
 
 ## List of Tools
 
-### Assistance & Chat
+### 🤖 Assistance & Chat
 
 - [ChatGPT](https://chat.openai.com/)  
    ChatGPT is a sibling model to InstructGPT, which is trained to follow an instruction in a prompt and provide a detailed response.
@@ -46,14 +46,14 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 ---
 
-### Productivity
+### 🎯 Productivity
 
 - [PopAi](https://www.popai.pro/)  
    A powerful AI tool that boosts productivity!Besides instant answers, explore search engine integration, PDF reading, Powerpoint generation and more! 
 
 ---
 
-### Design & Creativity
+### 🪄 Design & Creativity
 
 #### Image Generator
 
@@ -105,14 +105,14 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 ---
 
-### Engineering
+### 🪛 Engineering
 
 - [Leo](https://www.getleo.ai/)  
    The world's first engineering design copilot powered by generative AI. If you can imagine it, I can design it, from parts to fully assembled products, with 3D CAD models you can edit anywhere.
 
 ---
 
-### Code & Development
+### 👾 Code & Development
 
 #### Code Assistance
 
@@ -138,7 +138,7 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 ---
 
-### Data & Monitoring
+### 📊 Data & Monitoring
 
 - [Browse AI](https://www.browse.ai/)  
    Extract data from any website and turn it into a spreadsheet or an API with No-Code. The easiest way to extract and monitor data from any website. Integration with 5000+ apps.
@@ -148,7 +148,7 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 ---
 
-### Business & Marketing
+### 👔 Business & Marketing
 
 - [Ara](https://www.quantcast.com/platform/technology/)  
    Autonomously predicts when audiences are ready to buy, bids on the most accurate inventory, and optimizes every campaign dollar.
@@ -158,7 +158,7 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 ---
 
-### Research & Academic
+### 🔬 Research & Academic
 
 - [Google Colab](https://colab.google/)  
    Colab is a hosted Jupyter Notebook service that requires no setup to use and provides free access to computing resources, including GPUs and TPUs. Colab is especially well suited to machine learning, data science, and education.
@@ -168,7 +168,7 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 ---
 
-### Others
+### 🧰 Others
 
 - [Chatgot](https://chatgot.io/)  
    Chat Freely, Got Every AI Assistants Here for You.  
