@@ -6,6 +6,7 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [Assistance \& Chat](#-assistance--chat)
 - [Productivity](#-productivity)
+- [Text to Speech](#-text-to-speech)
 - [Design \& Creativity](#-design--creativity)
   - [Image Generator](#image-generator)
   - [User Interface](#user-interface)
@@ -50,6 +51,16 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [PopAi](https://www.popai.pro/)  
    A powerful AI tool that boosts productivity!Besides instant answers, explore search engine integration, PDF reading, Powerpoint generation and more! 
+
+---
+
+### 🎧 Text to Speech
+
+- [LeptonAI](https://www.lepton.ai/playground/openvoice)  
+   Lepton enables developers and enterprises to run AI applications efficiently in minutes, and at a production ready scale.  
+
+- [MyShell](https://app.myshell.ai/chat)  
+   Democratizing & Decentralizing AI-native apps. MyShell is a decentralized and comprehensive platform for discovering, creating, and staking AI-native apps.  
 
 ---
 
