@@ -80,6 +80,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Stockimg AI](https://stockimg.ai/)  
    Stockimg is an all in one design and content creation tool powered by AI. You can easily generate logo, illustration, wallpaper, poster and more.
 
+- [getimg.ai](https://getimg.ai/)  
+   Easily generate images from text, edit photos with words, expand pictures beyond their borders, train custom AI models and much more.
+
 #### User Interface
 
 - [Diagram](https://diagram.com/)  
