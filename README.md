@@ -133,6 +133,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Github Copilot](https://github.com/features/copilot)  
    GitHub Copilot can help you code by offering autocomplete-style suggestions.
 
+- [Deepnote AI](https://deepnote.com/ai)  
+   Deepnote offers contextual AI help for all your data projects. Learn more about the future of notebooks powered by AI assistance and deep learning.
+
 #### Site Builder
 
 - [V0.dev](https://v0.dev/)  
@@ -159,6 +162,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [Picarta](https://picarta.ai/)  
    Predict where a photo has been taken in the world using Artificial Intelligence.
+
+- [Bardeen](https://www.bardeen.ai/)  
+   Automation is now as easy as texting a friend, Meet Bardeen AI, delegate your tedious work with a few lines of text.
 
 ---
 
