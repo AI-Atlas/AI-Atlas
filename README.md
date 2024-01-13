@@ -18,6 +18,7 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Code \& Development](#-code--development)
   - [Code Assistance](#code-assistance)
   - [Site Builder](#site-builder)
+- [Resume \& Career](#-resume--career)
 - [Data \& Monitoring](#-data--monitoring)
 - [Business \& Marketing](#-business--marketing)
 - [Research \& Academic](#-research--academic)
@@ -45,12 +46,15 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Perplexity](https://perplexity.ai/)  
    Perplexity AI is a powerful research tool that uses artificial intelligence technology to gather information from multiple sources on the web and provide accurate responses to user questions in natural language. It is designed to be user-friendly, allowing smooth navigation and quick access to relevant information.
 
+- [Chatbot UI](https://www.chatbotui.com/)  
+   The open-source AI chat app for everyone.
+
 ---
 
 ### 🎯 Productivity
 
 - [PopAi](https://www.popai.pro/)  
-   A powerful AI tool that boosts productivity!Besides instant answers, explore search engine integration, PDF reading, Powerpoint generation and more! 
+   A powerful AI tool that boosts productivity!Besides instant answers, explore search engine integration, PDF reading, Powerpoint generation and more!  
 
 ---
 
@@ -152,6 +156,13 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [MakeLanding](https://makelanding.ai/)  
    Write about your project and get an entire landing page generated in seconds! Copy that sells, unique logo and illustrations, beautiful icons.
+
+---
+
+### 📄 Resume & Career
+
+- [AIApply](https://aiapply.co/)  
+   AIApply helps job seekers land more jobs quicker with the power of AI. Our Job Application Kit Generator is one of our tools that creates custom cover letters, rewrites resumes, and generates follow-up emails.
 
 ---
 
