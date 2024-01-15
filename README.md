@@ -22,8 +22,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Data \& Monitoring](#-data--monitoring)
 - [Business \& Marketing](#-business--marketing)
 - [Research \& Academic](#-research--academic)
-- [Others](#-others)
 - [Open-source \& Self-hosted](#-open-source--self-hosted)
+- [Others](#-others)
+
 
 ## List of Tools
 
