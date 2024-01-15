@@ -23,6 +23,7 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Business \& Marketing](#-business--marketing)
 - [Research \& Academic](#-research--academic)
 - [Others](#-others)
+- [Open-source \& Self-hosted](#-open-source--self-hosted)
 
 ## List of Tools
 
@@ -199,6 +200,13 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [Explainpaper](https://www.explainpaper.com/)  
    Upload a paper, highlight confusing text, get an explanation. We make research papers easy to read.
+
+---
+
+### 🔮 Open-source & Self-hosted
+
+- [LibreChat](https://github.com/danny-avila/LibreChat)  
+   Enhanced ChatGPT Clone: Features OpenAI, GPT-4 Vision, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development.  
 
 ---
 
