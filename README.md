@@ -56,7 +56,10 @@ This is an atlas of AI tools that are available on the web. This directory conta
 ### 🎯 Productivity
 
 - [PopAi](https://www.popai.pro/)  
-   A powerful AI tool that boosts productivity!Besides instant answers, explore search engine integration, PDF reading, Powerpoint generation and more!  
+   A powerful AI tool that boosts productivity!Besides instant answers, explore search engine integration, PDF reading, Powerpoint generation and more!
+
+- [Magical AI](https://www.getmagical.com/ai)
+   Auto-draft messages in 1-click, anywhere you have conversations. No annoying AI-training required.
 
 ---
 
@@ -101,6 +104,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [Runway](https://runwayml.com/)  
    Runway is an applied AI research company shaping the next era of art, entertainment and human creativity.
+
+- [WOWBO](https://www.w.ai/)  
+   WOMBO.ai is a technology startup focused on delivering joy through consumer-focused AI experiences. We bring the power of computer vision, generative art and fun to the future of synthetic media.
 
 #### 3D Modeling
 
