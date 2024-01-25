@@ -61,6 +61,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Magical AI](https://www.getmagical.com/ai)
    Auto-draft messages in 1-click, anywhere you have conversations. No annoying AI-training required.
 
+- [Writer](https://writer.com/)
+   Transform work with full-stack generative AI, Accelerate growth across every team with the secure enterprise generative AI platform.
+
 ---
 
 ### 🎧 Text to Speech
@@ -187,6 +190,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [Bardeen](https://www.bardeen.ai/)  
    Automation is now as easy as texting a friend, Meet Bardeen AI, delegate your tedious work with a few lines of text.
+
+- [HEX](https://hex.tech/)  
+   Queries, notebooks, reports, data apps, and AI — all in the world’s leading collaborative data workspace.
 
 ---
 
