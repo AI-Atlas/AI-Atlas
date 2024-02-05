@@ -21,6 +21,7 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Resume \& Career](#-resume--career)
 - [Data \& Monitoring](#-data--monitoring)
 - [Business \& Marketing](#-business--marketing)
+- [Financial \& Accounting](#-financial--accounting)
 - [Research \& Academic](#-research--academic)
 - [Open-source \& Self-hosted](#-open-source--self-hosted)
 - [Others](#-others)
@@ -51,6 +52,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Chatbot UI](https://www.chatbotui.com/)  
    The open-source AI chat app for everyone.
 
+- [Gemini](https://deepmind.google/technologies/gemini/#introduction)
+   Gemini is built from the ground up for multimodality — reasoning seamlessly across text, images, video, audio, and code.
+
 ---
 
 ### 🎯 Productivity
@@ -63,6 +67,18 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [Writer](https://writer.com/)
    Transform work with full-stack generative AI, Accelerate growth across every team with the secure enterprise generative AI platform.
+
+- [Broadcast](https://www.withbroadcast.com/)
+   Your own copilot. Capture meeting notes, track decisions, and automate followups. Enabling you to lead without busywork.
+
+- [Dart](https://www.itsdart.com/)
+   Project management powered by AI, Level up your team's productivity with Dart's AI sidekick.
+
+- [Modelize.ai](https://www.modelize.ai/)
+   Modelize.ai offers "Credits" that you can use to run tasks, chat with agents, and do more exciting things on the platform.
+
+- [botpress](https://botpress.com/)
+   The first next-generation chatbot builder powered by OpenAI. Build ChatGPT-like bots for your project or business to get things done. 
 
 ---
 
@@ -151,6 +167,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Deepnote AI](https://deepnote.com/ai)  
    Deepnote offers contextual AI help for all your data projects. Learn more about the future of notebooks powered by AI assistance and deep learning.
 
+- [Codeium](https://codeium.com/)  
+   A free AI powered toolkit for developers.
+
 #### Site Builder
 
 - [V0.dev](https://v0.dev/)  
@@ -167,6 +186,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [MakeLanding](https://makelanding.ai/)  
    Write about your project and get an entire landing page generated in seconds! Copy that sells, unique logo and illustrations, beautiful icons.
+
+- [BuildAI](https://www.buildai.space/)  
+   Build your own AI-powered web apps tailored to your business. No technical skills required.
 
 ---
 
@@ -203,6 +225,13 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [Sentione](https://sentione.com/)  
    Monitor online discussions that matter to your brand. By finding truly relevant insights with AI-based online listening and data analysis engine, you can fully manage your online brand image.
+
+---
+
+### 🧮 Financial & Accounting
+
+- [Brex AI](https://www.brex.com/platform/brex-ai)  
+   Reduce expense busywork by 10x while increasing compliance and accuracy. Brex AI eliminates manual work by automating tasks across our spend platform.
 
 ---
 
