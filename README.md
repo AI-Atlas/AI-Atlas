@@ -26,7 +26,6 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Open-source \& Self-hosted](#-open-source--self-hosted)
 - [Others](#-others)
 
-
 ## List of Tools
 
 ### 🤖 Assistance & Chat
@@ -78,7 +77,7 @@ This is an atlas of AI tools that are available on the web. This directory conta
    Modelize.ai offers "Credits" that you can use to run tasks, chat with agents, and do more exciting things on the platform.
 
 - [botpress](https://botpress.com/)
-   The first next-generation chatbot builder powered by OpenAI. Build ChatGPT-like bots for your project or business to get things done. 
+   The first next-generation chatbot builder powered by OpenAI. Build ChatGPT-like bots for your project or business to get things done.  
 
 ---
 
