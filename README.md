@@ -126,6 +126,12 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [WOWBO](https://www.w.ai/)  
    WOMBO.ai is a technology startup focused on delivering joy through consumer-focused AI experiences. We bring the power of computer vision, generative art and fun to the future of synthetic media.
 
+- [invideo AI](https://invideo.io/)  
+   It generates a script, creates scenes, adds voiceovers, & tweaks the video at your command. With invideo AI as your co-pilot, engaging your audience is effortlessly simple!
+
+- [Synthesia](https://www.synthesia.io/)
+   Create studio-quality videos with AI avatars and voiceovers in 130+ languages. It’s as easy as making a slide deck.
+
 #### 3D Modeling
 
 - [Genie](https://lumalabs.ai/genie)  
@@ -198,6 +204,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [Interview Warmup](https://grow.google/certificates/interview-warmup/)  
    A quick way to prepare for your next interview. Practice key questions, get insights about your answers, and get more comfortable interviewing.
+
+- [Final Round AI](https://www.finalroundai.com/)
+   Interview Copilot®️ generating actionable guidance in real-time.
 
 ---
 
