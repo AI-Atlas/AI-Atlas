@@ -54,6 +54,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Gemini](https://deepmind.google/technologies/gemini/#introduction)
    Gemini is built from the ground up for multimodality — reasoning seamlessly across text, images, video, audio, and code.
 
+- [Tock](https://doc.tock.ai/en/)
+   Tock (The Open Conversation Kit) is a complete and open platform to build conversational agents - also known as bots.
+
 ---
 
 ### 🎯 Productivity
@@ -118,6 +121,12 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Studio Design](https://studio.design/)  
    Go further than the speed of thought. STUDIO AI reads and understands your designs, and with nothing more than a single line of feedback, perform complex actions autonomously.
 
+- [uizard](https://uizard.io/)
+   Bring your product vision to life in minutes with the world's first AI-powered UI design tool - no design experience required! Sign up for free today.
+
+- [Galileo AI](https://www.usegalileo.ai/explore)
+   Generate interface designs at lightning speed, Galileo AI is a UI generation platform for easy and fast design ideation.
+
 #### Viedo & Multi-Media
 
 - [Runway](https://runwayml.com/)  
@@ -153,12 +162,18 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Colormind](http://colormind.io/)  
    Generate color combinations in one click. Colormind creates cohesive color schemes using a deep neural net.
 
+- [Khroma](https://www.khroma.co/)
+   Khroma uses AI to learn which colors you like and creates limitless palettes for you to discover, search, and save.
+
 ---
 
 ### 🪛 Engineering
 
 - [Leo](https://www.getleo.ai/)  
    The world's first engineering design copilot powered by generative AI. If you can imagine it, I can design it, from parts to fully assembled products, with 3D CAD models you can edit anywhere.
+
+- [Globe](https://globe.engineer/)
+   We are fixing engineering, using LLM Engineering Agents. And helping the LLM Agent community along the way.
 
 ---
 
