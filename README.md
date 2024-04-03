@@ -51,10 +51,10 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Chatbot UI](https://www.chatbotui.com/)  
    The open-source AI chat app for everyone.
 
-- [Gemini](https://deepmind.google/technologies/gemini/#introduction)
+- [Gemini](https://deepmind.google/technologies/gemini/#introduction)  
    Gemini is built from the ground up for multimodality — reasoning seamlessly across text, images, video, audio, and code.
 
-- [Tock](https://doc.tock.ai/en/)
+- [Tock](https://doc.tock.ai/en/)  
    Tock (The Open Conversation Kit) is a complete and open platform to build conversational agents - also known as bots.
 
 ---
@@ -64,22 +64,22 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [PopAi](https://www.popai.pro/)  
    A powerful AI tool that boosts productivity!Besides instant answers, explore search engine integration, PDF reading, Powerpoint generation and more!
 
-- [Magical AI](https://www.getmagical.com/ai)
+- [Magical AI](https://www.getmagical.com/ai)  
    Auto-draft messages in 1-click, anywhere you have conversations. No annoying AI-training required.
 
-- [Writer](https://writer.com/)
+- [Writer](https://writer.com/)  
    Transform work with full-stack generative AI, Accelerate growth across every team with the secure enterprise generative AI platform.
 
-- [Broadcast](https://www.withbroadcast.com/)
+- [Broadcast](https://www.withbroadcast.com/)  
    Your own copilot. Capture meeting notes, track decisions, and automate followups. Enabling you to lead without busywork.
 
-- [Dart](https://www.itsdart.com/)
+- [Dart](https://www.itsdart.com/)  
    Project management powered by AI, Level up your team's productivity with Dart's AI sidekick.
 
-- [Modelize.ai](https://www.modelize.ai/)
+- [Modelize.ai](https://www.modelize.ai/)  
    Modelize.ai offers "Credits" that you can use to run tasks, chat with agents, and do more exciting things on the platform.
 
-- [botpress](https://botpress.com/)
+- [botpress](https://botpress.com/)  
    The first next-generation chatbot builder powered by OpenAI. Build ChatGPT-like bots for your project or business to get things done.  
 
 ---
@@ -121,10 +121,10 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Studio Design](https://studio.design/)  
    Go further than the speed of thought. STUDIO AI reads and understands your designs, and with nothing more than a single line of feedback, perform complex actions autonomously.
 
-- [uizard](https://uizard.io/)
+- [uizard](https://uizard.io/)  
    Bring your product vision to life in minutes with the world's first AI-powered UI design tool - no design experience required! Sign up for free today.
 
-- [Galileo AI](https://www.usegalileo.ai/explore)
+- [Galileo AI](https://www.usegalileo.ai/explore)  
    Generate interface designs at lightning speed, Galileo AI is a UI generation platform for easy and fast design ideation.
 
 #### Viedo & Multi-Media
@@ -138,7 +138,7 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [invideo AI](https://invideo.io/)  
    It generates a script, creates scenes, adds voiceovers, & tweaks the video at your command. With invideo AI as your co-pilot, engaging your audience is effortlessly simple!
 
-- [Synthesia](https://www.synthesia.io/)
+- [Synthesia](https://www.synthesia.io/)  
    Create studio-quality videos with AI avatars and voiceovers in 130+ languages. It’s as easy as making a slide deck.
 
 #### 3D Modeling
@@ -162,7 +162,7 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Colormind](http://colormind.io/)  
    Generate color combinations in one click. Colormind creates cohesive color schemes using a deep neural net.
 
-- [Khroma](https://www.khroma.co/)
+- [Khroma](https://www.khroma.co/)  
    Khroma uses AI to learn which colors you like and creates limitless palettes for you to discover, search, and save.
 
 ---
@@ -172,7 +172,7 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Leo](https://www.getleo.ai/)  
    The world's first engineering design copilot powered by generative AI. If you can imagine it, I can design it, from parts to fully assembled products, with 3D CAD models you can edit anywhere.
 
-- [Globe](https://globe.engineer/)
+- [Globe](https://globe.engineer/)  
    We are fixing engineering, using LLM Engineering Agents. And helping the LLM Agent community along the way.
 
 ---
@@ -220,7 +220,7 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Interview Warmup](https://grow.google/certificates/interview-warmup/)  
    A quick way to prepare for your next interview. Practice key questions, get insights about your answers, and get more comfortable interviewing.
 
-- [Final Round AI](https://www.finalroundai.com/)
+- [Final Round AI](https://www.finalroundai.com/)  
    Interview Copilot®️ generating actionable guidance in real-time.
 
 ---
