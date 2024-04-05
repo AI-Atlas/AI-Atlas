@@ -209,6 +209,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Codeium](https://codeium.com/)  
    A free AI powered toolkit for developers.
 
+- [Plandex](https://plandex.ai/)  
+   An open source, terminal-based AI coding engine that helps you complete large tasks, work around bad output, and maximize productivity.
+
 #### Site Builder
 
 - [V0.dev](https://v0.dev/)  
