@@ -9,7 +9,7 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Text to Speech](#-text-to-speech)
 - [Design \& Creativity](#-design--creativity)
   - [Image Generator](#image-generator)
-  - [User Interface](#user-interface)
+  - [UI & UX](#ui--ux)
   - [Video \& Multi-Media](#viedo--multi-media)
   - [3D Modeling](#3d-modeling)
   - [Icon](#icon)
@@ -21,6 +21,7 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Resume \& Career](#-resume--career)
 - [Data \& Monitoring](#-data--monitoring)
 - [Business \& Marketing](#-business--marketing)
+- [OCR](#-ocr)
 - [Financial \& Accounting](#-financial--accounting)
 - [Research \& Academic](#-research--academic)
 - [Open-source \& Self-hosted](#-open-source--self-hosted)
@@ -57,6 +58,12 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Tock](https://doc.tock.ai/en/)  
    Tock (The Open Conversation Kit) is a complete and open platform to build conversational agents - also known as bots.
 
+- [NVIDIA ChatRTX](https://www.nvidia.com/en-us/ai-on-rtx/chatrtx/)  
+   ChatRTX is a demo app that lets you personalize a GPT large language model (LLM) connected to your own content—docs, notes, or other data.
+
+- [LobeHub](https://chat-preview.lobehub.com/welcome)  
+   LobeChat Unlock the superpower of your brain, pioneering the new age of thinking and creating. Built for you, the Super Individual.
+
 ---
 
 ### 🎯 Productivity
@@ -81,6 +88,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [botpress](https://botpress.com/)  
    The first next-generation chatbot builder powered by OpenAI. Build ChatGPT-like bots for your project or business to get things done.  
+
+- [Worldtune](https://www.wordtune.com/)  
+   Wordtune is a Generative AI platform for work productivity. By using reliable GenAI, professionals from all fields can grow their careers and stand out at work.
 
 ---
 
@@ -113,7 +123,7 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [getimg.ai](https://getimg.ai/)  
    Easily generate images from text, edit photos with words, expand pictures beyond their borders, train custom AI models and much more.
 
-#### User Interface
+#### UI & UX
 
 - [Diagram](https://diagram.com/)  
    Diagram is a design tools company reimagining UI design in the era of generative AI. We’re a small team of builders, creatives, and prototypers looking to grow individually and together.
@@ -126,6 +136,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [Galileo AI](https://www.usegalileo.ai/explore)  
    Generate interface designs at lightning speed, Galileo AI is a UI generation platform for easy and fast design ideation.
+
+- [QoQo](https://qoqo.ai/)
+   QoQo.ai is an artificial intelligence to keep designers curious, organized and efficient.
 
 #### Viedo & Multi-Media
 
@@ -140,6 +153,12 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [Synthesia](https://www.synthesia.io/)  
    Create studio-quality videos with AI avatars and voiceovers in 130+ languages. It’s as easy as making a slide deck.
+
+- [FRAMEDROP](https://www.framedrop.ai/)  
+   Framedrop is an AI tool that automatically finds the best moments in YouTube and Twitch content and turns it into short-form videos. This means no more long nights of going through your content and making TikToks/YouTube Shorts/Instagram Reels. Framedrop speeds up that process so that you can focus on what you love, creating content.
+
+- [Sora](https://openai.com/sora)  
+   Sora is an AI model that can create realistic and imaginative scenes from text instructions.
 
 #### 3D Modeling
 
@@ -251,6 +270,16 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 ---
 
+### 🔍 OCR
+
+- [Taggun](https://www.taggun.io/)
+   Giving purpose to receipts with AI. Join the revolution of businesses transforming their receipts into powerful digital data.  
+
+- [CRADL AI](https://www.cradl.ai/use-cases/receipt-ocr-api)
+   Receipt OCR API Accurate and flexible parsing of receipts using deep learning. Powered by your data.
+
+---
+
 ### 🧮 Financial & Accounting
 
 - [Brex AI](https://www.brex.com/platform/brex-ai)  
@@ -272,6 +301,15 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [LibreChat](https://github.com/danny-avila/LibreChat)  
    Enhanced ChatGPT Clone: Features OpenAI, GPT-4 Vision, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development.  
+  
+- [Upscayl](https://github.com/upscayl/upscayl)  
+   Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
+
+- [Burn](https://burn.dev/)  
+   Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.
+
+- [Open Sora](https://github.com/hpcaitech/Open-Sora)  
+   An initiative dedicated to efficiently produce high-quality video and make the model, tools and contents accessible to all. By embracing open-source principles, Open-Sora not only democratizes access to advanced video generation techniques, but also offers a streamlined and user-friendly platform that simplifies the complexities of video production. With Open-Sora, we aim to inspire innovation, creativity, and inclusivity in the realm of content creation.
 
 ---
 
@@ -285,6 +323,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [WizyChat](https://wizy.chat/#home)  
    Instant answers for your customers and your team with personalized AI chatbots trained with your data.  
+
+- [Paperspace](https://www.paperspace.com/)  
+   Paperspace, now part of DigitalOcean, is a high-performance cloud computing and ML development platform for building, training and deploying machine learning models.
 
 ---
 
