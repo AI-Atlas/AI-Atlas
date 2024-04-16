@@ -14,6 +14,7 @@ This is an atlas of AI tools that are available on the web. This directory conta
   - [3D Modeling](#3d-modeling)
   - [Icon](#icon)
   - [Colors](#colors)
+  - [Music \& Sound](#music--sound)
 - [Engineering](#-engineering)
 - [Code \& Development](#-code--development)
   - [Code Assistance](#code-assistance)
@@ -160,6 +161,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Sora](https://openai.com/sora)  
    Sora is an AI model that can create realistic and imaginative scenes from text instructions.
 
+- [Remini](https://remini.ai/)  
+   Transformative technology gives your low-quality visuals a stunning HD upgrade. Restore old photos to incredible detail and elevate your content to a professional level.
+
 #### 3D Modeling
 
 - [Genie](https://lumalabs.ai/genie)  
@@ -184,6 +188,14 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Khroma](https://www.khroma.co/)  
    Khroma uses AI to learn which colors you like and creates limitless palettes for you to discover, search, and save.
 
+#### Music & Sound
+
+- [udio](https://www.udio.com/)  
+   Udio builds AI tools to enable the next generation of music creators. We believe AI has the potential to expand musical horizons and enable anyone to create extraordinary music.
+
+- [Suno](https://suno.com/)  
+   Suno is building a future where anyone can make great music. Whether you're a shower singer or a charting artist, we break barriers between you and the song you dream of making. No instrument needed, just imagination. From your mind to music.
+
 ---
 
 ### 🪛 Engineering
@@ -193,6 +205,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [Globe](https://globe.engineer/)  
    We are fixing engineering, using LLM Engineering Agents. And helping the LLM Agent community along the way.
+
+- [aino](https://aino.world/)  
+   AI-powered tool for urban consultants, data analysts, and spatial planners to gain insights from spatial data without requiring engineering skills.
 
 ---
 
@@ -211,6 +226,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [Plandex](https://plandex.ai/)  
    An open source, terminal-based AI coding engine that helps you complete large tasks, work around bad output, and maximize productivity.
+
+- [Replit AI](https://replit.com/ai)  
+   Automate the repetitive parts of coding, so you can stay focused on taking your idea to software.
 
 #### Site Builder
 
@@ -271,6 +289,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Sentione](https://sentione.com/)  
    Monitor online discussions that matter to your brand. By finding truly relevant insights with AI-based online listening and data analysis engine, you can fully manage your online brand image.
 
+- [NOAN](https://www.getnoan.com/)  
+   Develop, manage and deploy your company strategy with the AI operating system for business.
+
 ---
 
 ### 🔍 OCR
@@ -314,6 +335,12 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Open Sora](https://github.com/hpcaitech/Open-Sora)  
    An initiative dedicated to efficiently produce high-quality video and make the model, tools and contents accessible to all. By embracing open-source principles, Open-Sora not only democratizes access to advanced video generation techniques, but also offers a streamlined and user-friendly platform that simplifies the complexities of video production. With Open-Sora, we aim to inspire innovation, creativity, and inclusivity in the realm of content creation.
 
+- [Open Devin](https://github.com/OpenDevin/OpenDevin)  
+   An open-source project aiming to replicate Devin, an autonomous AI software engineer who is capable of executing complex engineering tasks and collaborating actively with users on software development projects. This project aspires to replicate, enhance, and innovate upon Devin through the power of the open-source community.
+
+- [FreeAskInternet](https://github.com/nashsu/FreeAskInternet)  
+   FreeAskInternet is a completely free, private and locally running search aggregator & answer generate using LLM, Without GPU needed. The user can ask a question and the system will use searxng to make a multi engine search and combine the search result to the ChatGPT3.5 LLM and generate the answer based on search results. 
+
 ---
 
 ### 🧰 Others
@@ -329,6 +356,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [Paperspace](https://www.paperspace.com/)  
    Paperspace, now part of DigitalOcean, is a high-performance cloud computing and ML development platform for building, training and deploying machine learning models.
+
+- [unify](https://unify.ai/)  
+   The Best LLM on Every Prompt. Not Sure Which Model to Use? Automatically Use The Best Model for Your Task on Every Prompt.
 
 ---
 
