@@ -138,7 +138,7 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Galileo AI](https://www.usegalileo.ai/explore)  
    Generate interface designs at lightning speed, Galileo AI is a UI generation platform for easy and fast design ideation.
 
-- [QoQo](https://qoqo.ai/)
+- [QoQo](https://qoqo.ai/)  
    QoQo.ai is an artificial intelligence to keep designers curious, organized and efficient.
 
 #### Viedo & Multi-Media
@@ -292,6 +292,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [NOAN](https://www.getnoan.com/)  
    Develop, manage and deploy your company strategy with the AI operating system for business.
 
+- [Nexus](https://gpt.nexus/)  
+   nexus enables anyone to build autonomous AI agents in minutes with no code. 
+
 ---
 
 ### 🔍 OCR
@@ -340,6 +343,18 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [FreeAskInternet](https://github.com/nashsu/FreeAskInternet)  
    FreeAskInternet is a completely free, private and locally running search aggregator & answer generate using LLM, Without GPU needed. The user can ask a question and the system will use searxng to make a multi engine search and combine the search result to the ChatGPT3.5 LLM and generate the answer based on search results. 
+
+- [Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)  
+   A web interface for Stable Diffusion, implemented using Gradio library.
+
+- [Storm](https://github.com/stanford-oval/storm)  
+   STORM is a LLM system that writes Wikipedia-like articles from scratch based on Internet search. While the system cannot produce publication-ready articles that often require a significant number of edits, experienced Wikipedia editors have found it helpful in their pre-writing stage.
+
+- [whisper](https://github.com/openai/whisper)  
+   Whisper is a general-purpose speech recognition model. It is trained on a large dataset of diverse audio and is also a multitasking model that can perform multilingual speech recognition, speech translation, and language identification.
+
+- [whisper.cpp](https://github.com/ggerganov/whisper.cpp)  
+   High-performance inference of OpenAI's Whisper automatic speech recognition (ASR) model.
 
 ---
 
