@@ -19,6 +19,7 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Code \& Development](#-code--development)
   - [Code Assistance](#code-assistance)
   - [Site Builder](#site-builder)
+  - [Code Review](#code-review)
 - [Resume \& Career](#-resume--career)
 - [Data \& Monitoring](#-data--monitoring)
 - [Business \& Marketing](#-business--marketing)
@@ -230,6 +231,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Replit AI](https://replit.com/ai)  
    Automate the repetitive parts of coding, so you can stay focused on taking your idea to software.
 
+- [Sirji](https://github.com/sirji-ai/sirji)  
+   Sirji is a Visual Studio Code extension that works as an AI software development agent.
+
 #### Site Builder
 
 - [V0.dev](https://v0.dev/)  
@@ -249,6 +253,14 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [BuildAI](https://www.buildai.space/)  
    Build your own AI-powered web apps tailored to your business. No technical skills required.
+
+#### Code Review
+
+- [CodeRabbit](https://coderabbit.ai/)  
+   CodeRabbit is an innovative, AI-driven platform that transforms the way code reviews are done. Its automated reviews elevate the code quality while significantly reducing the time and effort tied to extensive manual code reviews.
+
+- [blockli](https://github.com/stitionai/blockoli)  
+   Blockoli is a high-performance tool for code indexing, embedding generation and semantic search tool for use with LLMs. blockoli is built in Rust and uses the ASTerisk crate for semantic code parsing. blockoli allows you to efficiently index, store, and search code blocks and their embeddings using vector similarity.
 
 ---
 
