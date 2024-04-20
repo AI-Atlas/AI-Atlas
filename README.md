@@ -387,6 +387,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [unify](https://unify.ai/)  
    The Best LLM on Every Prompt. Not Sure Which Model to Use? Automatically Use The Best Model for Your Task on Every Prompt.
 
+- [Poe](https://poe.com/)  
+   Talk to ChatGPT, GPT-4, Claude 3 Opus, DALLE 3, and millions of others - all on Poe.
+
 ---
 
 ## Contribution
