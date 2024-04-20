@@ -307,6 +307,12 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Nexus](https://gpt.nexus/)  
    nexus enables anyone to build autonomous AI agents in minutes with no code. 
 
+- [pipefy](https://www.pipefy.com/)  
+   Pipefy’s no-code platform is the fastest and most cost-effective way to boost your Procurement, HR and IT operations.
+
+- [Black Cow AI](https://www.blackcrow.ai/)  
+   Black Crow AI helps companies of all sizes improve profitability with the power of machine-learned prediction. We empower e-commerce brand growth by unlocking the hidden value in the customer data you already own.
+
 ---
 
 ### 🔍 OCR
@@ -368,6 +374,12 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [whisper.cpp](https://github.com/ggerganov/whisper.cpp)  
    High-performance inference of OpenAI's Whisper automatic speech recognition (ASR) model.
 
+- [Devika](https://github.com/stitionai/devika)  
+   Devika is an advanced AI software engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. Devika utilizes large language models, planning and reasoning algorithms, and web browsing abilities to intelligently develop software.
+
+- [Mini-Gemini](https://mini-gemini.github.io/)  
+   In this work, we introduce Mini-Gemini, a simple and effective framework enhancing multi-modality Vision Language Models (VLMs). Despite the advancements in VLMs facilitating basic visual dialog and reasoning, a performance gap persists compared to advanced models like GPT-4 and Gemini.
+
 ---
 
 ### 🧰 Others
@@ -389,6 +401,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [Poe](https://poe.com/)  
    Talk to ChatGPT, GPT-4, Claude 3 Opus, DALLE 3, and millions of others - all on Poe.
+
+- [CommandBar](https://www.commandbar.com/)  
+   The only platform for non-annoying user assistance, helping product, marketing, and customer teams unleash their users.
 
 ---
 
