@@ -380,6 +380,12 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Mini-Gemini](https://mini-gemini.github.io/)  
    In this work, we introduce Mini-Gemini, a simple and effective framework enhancing multi-modality Vision Language Models (VLMs). Despite the advancements in VLMs facilitating basic visual dialog and reasoning, a performance gap persists compared to advanced models like GPT-4 and Gemini.
 
+- [Meta Llama 3](https://github.com/meta-llama/llama3)  
+   We are unlocking the power of large language models. Our latest version of Llama is now accessible to individuals, creators, researchers, and businesses of all sizes so that they can experiment, innovate, and scale their ideas responsibly.
+
+- [Jan](https://github.com/janhq/jan)  
+   Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. Multiple engine support (llama.cpp, TensorRT-LLM)
+
 ---
 
 ### 🧰 Others
