@@ -388,6 +388,13 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 ---
 
+### 📒 Libraries
+
+- [Apple CoreNet](https://github.com/apple/corenet)  
+   CoreNet is a deep neural network toolkit that allows researchers and engineers to train standard and novel small and large-scale models for variety of tasks, including foundation models (e.g., CLIP and LLM), object classification, object detection, and semantic segmentation.
+
+---
+
 ### 🧰 Others
 
 - [Chatgot](https://chatgot.io/)  
