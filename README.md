@@ -249,6 +249,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Sirji](https://github.com/sirji-ai/sirji)  
    Sirji is a Visual Studio Code extension that works as an AI software development agent.
 
+- [Mistral AI](https://mistral.ai/)  
+   Frontier AI in your hands. Open and portable generative AI for devs and businesses.
+
 #### Site Builder
 
 - [V0.dev](https://v0.dev/)  
@@ -268,6 +271,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [BuildAI](https://www.buildai.space/)  
    Build your own AI-powered web apps tailored to your business. No technical skills required.
+
+- [Locofy](https://www.locofy.ai/)  
+   Locofy.ai turns your designs into production-ready frontend code for mobile apps and web. It enables builders to ship products 10x faster with your existing design tools, tech stacks & workflows.
 
 #### Code Review
 
@@ -456,6 +462,12 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [FIXIE](https://fixie.ai/)  
    Human communication is messy. We interrupt, talk over each other, and don't always wait our turn. But this rapid, messy exchange of ideas serves as the backbone of human progress. LLMs are revolutionary, but their potential impact is currently limited to situations where text-based chat is sufficient.
+
+- [Hugging Face](https://huggingface.co/)  
+   The AI community building the future. The platform where the machine learning community collaborates on models, datasets, and applications.
+
+- [hume](https://www.hume.ai/)
+   Empathic AI to serve human well-being. With a single API call, interpret emotional expressions and generate empathic responses. Meet the first AI with emotional intelligence.
 
 ---
 
