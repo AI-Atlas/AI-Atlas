@@ -27,6 +27,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Financial \& Accounting](#-financial--accounting)
 - [Research \& Academic](#-research--academic)
 - [Open-source \& Self-hosted](#-open-source--self-hosted)
+- [Libraries](#-libraries)
+- [Hardware \& Cloud](#-hardware--cloud)
+- [AI Tools](#-ai-tools)
 - [Others](#-others)
 
 ## List of Tools
@@ -108,6 +111,12 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 ### 🪄 Design & Creativity
 
+- [runway](https://runwayml.com/)  
+   Tools for human imagination. A new suite of creative tools designed to turn the ideas in your head into reality. All made possible with AI models that can understand and generate worlds.
+
+- [stability.ai](https://stability.ai/)  
+   Stability AI is the world’s leading open source generative AI company. We deliver breakthrough, open-access AI models with minimal resource requirements in imaging, language, code and audio.
+
 #### Image Generator
 
 - [Midjourney](https://www.midjourney.com/)  
@@ -169,6 +178,12 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [Genie](https://lumalabs.ai/genie)  
    Genie allows anyone to generate realistic 3D models. The new tool can create 3D things from natural language prompts.
+
+- [Cap3D](https://cap3d-um.github.io/)  
+   Cap3D provides detailed descriptions of 3D objects by leveraging pretrained models in captioning, alignment, and LLM to consolidate multi-view information.
+
+- [InstantMesh](https://github.com/TencentARC/InstantMesh)  
+   Efficient 3D Mesh Generation from a Single Image with Sparse-view Large Reconstruction Models
 
 #### Icon
 
@@ -291,6 +306,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [HEX](https://hex.tech/)  
    Queries, notebooks, reports, data apps, and AI — all in the world’s leading collaborative data workspace.
 
+- [VortexAI](https://www.vortexai.dev/)
+   Streamline your AI management with VortexAI's central hub for usage monitoring.
+
 ---
 
 ### 👔 Business & Marketing
@@ -312,6 +330,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [Black Cow AI](https://www.blackcrow.ai/)  
    Black Crow AI helps companies of all sizes improve profitability with the power of machine-learned prediction. We empower e-commerce brand growth by unlocking the hidden value in the customer data you already own.
+
+- [Midday](https://midday.ai/)  
+   Midday provides you with greater insight into your business and automates the boring tasks, allowing you to focus on what you love to do instead.
 
 ---
 
@@ -393,6 +414,21 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Apple CoreNet](https://github.com/apple/corenet)  
    CoreNet is a deep neural network toolkit that allows researchers and engineers to train standard and novel small and large-scale models for variety of tasks, including foundation models (e.g., CLIP and LLM), object classification, object detection, and semantic segmentation.
 
+
+---
+
+### 🛟 Hardware & Cloud
+
+-[RunPod](https://www.runpod.io/)  
+   Globally distributed GPU cloud built for production. Develop, train, and scale AI applications.
+
+---
+
+### ⚙️ AI Tools
+
+- [Google AI Studio](https://aistudio.google.com/app/prompts/new_chat)  
+   Google AI Studio is a browser-based IDE for prototyping with generative models. Google AI Studio lets you quickly try out models and experiment with different prompts. When you've built something you're happy with, you can export it to code in your preferred programming language, powered by the Gemini API.
+
 ---
 
 ### 🧰 Others
@@ -417,6 +453,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [CommandBar](https://www.commandbar.com/)  
    The only platform for non-annoying user assistance, helping product, marketing, and customer teams unleash their users.
+
+- [FIXIE](https://fixie.ai/)  
+   Human communication is messy. We interrupt, talk over each other, and don't always wait our turn. But this rapid, messy exchange of ideas serves as the backbone of human progress. LLMs are revolutionary, but their potential impact is currently limited to situations where text-based chat is sufficient.
 
 ---
 
