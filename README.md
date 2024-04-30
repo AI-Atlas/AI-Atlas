@@ -413,6 +413,12 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Jan](https://github.com/janhq/jan)  
    Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. Multiple engine support (llama.cpp, TensorRT-LLM)
 
+- [dot](https://github.com/sensity-ai/dot)  
+   dot (aka Deepfake Offensive Toolkit) makes real-time, controllable deepfakes ready for virtual cameras injection. dot is created for performing penetration testing against e.g. identity verification and video conferencing systems, for the use by security analysts, Red Team members, and biometrics researchers.
+
+- [LLaMa Factory](https://github.com/hiyouga/LLaMA-Factory)  
+   Unify Efficient Fine-Tuning of 100+ LLMs.
+
 ---
 
 ### 📒 Libraries
