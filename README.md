@@ -315,6 +315,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [VortexAI](https://www.vortexai.dev/)
    Streamline your AI management with VortexAI's central hub for usage monitoring.
 
+- [Deepnote](https://deepnote.com/)  
+   Deepnote offers contextual AI help for all your data projects. Learn more about the future of notebooks powered by AI assistance and deep learning.
+
 ---
 
 ### 👔 Business & Marketing
@@ -418,6 +421,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [LLaMa Factory](https://github.com/hiyouga/LLaMA-Factory)  
    Unify Efficient Fine-Tuning of 100+ LLMs.
+
+- [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter)  
+   Open Interpreter lets LLMs run code (Python, Javascript, Shell, and more) locally. You can chat with Open Interpreter through a ChatGPT-like interface in your terminal by running interpreter after installing.
 
 ---
 
