@@ -283,6 +283,12 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [blockli](https://github.com/stitionai/blockoli)  
    Blockoli is a high-performance tool for code indexing, embedding generation and semantic search tool for use with LLMs. blockoli is built in Rust and uses the ASTerisk crate for semantic code parsing. blockoli allows you to efficiently index, store, and search code blocks and their embeddings using vector similarity.
 
+- [Sourcegraph](https://sourcegraph.com/)  
+   Sourcegraph allows developers to rapidly search, write, and understand code by bringing insights from their entire codebase right into the editor.
+
+- [SWE Agent](https://github.com/princeton-nlp/SWE-agent)  
+   SWE-agent turns LMs (e.g. GPT-4) into software engineering agents that can fix bugs and issues in real GitHub repositories.
+
 ---
 
 ### 📄 Resume & Career
