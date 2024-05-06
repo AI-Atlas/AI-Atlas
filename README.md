@@ -163,6 +163,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [THUMB ZONE](https://www.thumb.zone/)  
    AI Copilot for Mobile User Testing.
 
+- [userevaluation](https://www.userevaluation.com/)  
+   Seamlessly convert customer data into strategic assets using our all-encompassing AI analysis toolkit.
+
 #### Viedo & Multi-Media
 
 - [Runway](https://runwayml.com/)  
@@ -528,6 +531,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [MapGPT](https://www.mapbox.com/mapgpt)  
    Deliver natural conversations with a location-intelligent AI assistant.
+
+- [QuillBot](https://quillbot.com/)  
+   QuillBot is an AI-powered writing platform helping more than 35 million monthly active users across 150 countries. With its innovative human-in-the-loop products, QuillBot aims to make writing painless while preserving the user's unique perspective and voice.
 
 ---
 
