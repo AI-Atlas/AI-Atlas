@@ -258,6 +258,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Mistral AI](https://mistral.ai/)  
    Frontier AI in your hands. Open and portable generative AI for devs and businesses.
 
+- [kapa](https://www.kapa.ai/)  
+   Kapa.ai learns from your technical resources to generate an LLM-powered chatbot that answers developer questions automatically and helps you find gaps in your docs.
+
 #### Site Builder
 
 - [V0.dev](https://v0.dev/)  
@@ -329,6 +332,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [Deepnote](https://deepnote.com/)  
    Deepnote offers contextual AI help for all your data projects. Learn more about the future of notebooks powered by AI assistance and deep learning.
+
+- [BrightData](https://brightdata.com/)   
+   Award-winning proxy networks, AI-powered web scrapers, and business-ready datasets for download. Welcome to the internet’s most trusted web data platform.
 
 ---
 
