@@ -535,6 +535,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [QuillBot](https://quillbot.com/)  
    QuillBot is an AI-powered writing platform helping more than 35 million monthly active users across 150 countries. With its innovative human-in-the-loop products, QuillBot aims to make writing painless while preserving the user's unique perspective and voice.
 
+- [wonderchat](https://wonderchat.io/)  
+   Instantly build AI chatbots from your knowledge base.
+
 ---
 
 ## Contribution
