@@ -140,6 +140,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [getimg.ai](https://getimg.ai/)  
    Easily generate images from text, edit photos with words, expand pictures beyond their borders, train custom AI models and much more.
 
+- [Ilus AI](https://ilus.ai/)  
+   Get beautiful, stylistically consistent illustrations in minutes.
+
 #### UI & UX
 
 - [Diagram](https://diagram.com/)  
@@ -382,6 +385,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Pecan](https://www.pecan.ai/)  
    Pecan is a predictive analytics platform that leverages its pioneering Predictive GenAI to remove barriers to AI adoption, making predictive modeling accessible to all data and business teams.
 
+- [lang.ai](https://www.lang.ai/)  
+   The AI for real-time CX insights tailored to your business complexity. Build trusted AI workflows beyond chatbots and make decisions backed with accurate, granular insights.
+
 ---
 
 ### 🔍 OCR
@@ -469,6 +475,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [Tensor Flow](https://www.tensorflow.org/)  
    TensorFlow makes it easy to create ML models that can run in any environment. Learn how to use the intuitive APIs through interactive code samples.
+
+- [Open Diffusion](https://github.com/HVision-NKU/StoryDiffusion)  
+   Consistent Self-Attention for Long-Range Image and Video Generation.
 
 ---
 
