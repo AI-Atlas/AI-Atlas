@@ -26,6 +26,7 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [OCR](#-ocr)
 - [Financial \& Accounting](#-financial--accounting)
 - [Research \& Academic](#-research--academic)
+- [Health \& Wellbeing](#-health--wellbeing)
 - [Open-source \& Self-hosted](#-open-source--self-hosted)
 - [Libraries](#-libraries)
 - [Hardware \& Cloud](#-hardware--cloud)
@@ -388,6 +389,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [lang.ai](https://www.lang.ai/)  
    The AI for real-time CX insights tailored to your business complexity. Build trusted AI workflows beyond chatbots and make decisions backed with accurate, granular insights.
 
+- [Wordsmith](https://www.wordsmith.ai/)  
+   Make in-house legal accessible to the rest of the business and process workflows, documents and routine legal tasks in seconds.
+
 ---
 
 ### 🔍 OCR
@@ -414,6 +418,13 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [Explainpaper](https://www.explainpaper.com/)  
    Upload a paper, highlight confusing text, get an explanation. We make research papers easy to read.
+
+---
+
+### 🩺 Health & Wellbeing
+
+- [Corti](https://www.corti.ai/)  
+   Corti is a clinically proven AI guide that augments, automates, and analyzes virtual care and face-to-face patient engagements.
 
 ---
 
