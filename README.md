@@ -112,7 +112,10 @@ This is an atlas of AI tools that are available on the web. This directory conta
    Lepton enables developers and enterprises to run AI applications efficiently in minutes, and at a production ready scale.  
 
 - [MyShell](https://app.myshell.ai/chat)  
-   Democratizing & Decentralizing AI-native apps. MyShell is a decentralized and comprehensive platform for discovering, creating, and staking AI-native apps.  
+   Democratizing & Decentralizing AI-native apps. MyShell is a decentralized and comprehensive platform for discovering, creating, and staking AI-native apps. 
+
+- [Play.ht](https://play.ht/)  
+   Ultra realistic Text to Speech(TTS) voice. Leading AI Voice Generator. Free Unlimited downloads. Most Fluent & Conversational AI voices
 
 ---
 
@@ -244,6 +247,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [aino](https://aino.world/)  
    AI-powered tool for urban consultants, data analysts, and spatial planners to gain insights from spatial data without requiring engineering skills.
 
+- [SnapMagic](https://www.snapmagic.com/)  
+   Your AI Copilot for Electronics Design. Fly faster with your existing PCB design tool. Built on top of SnapMagic.
+
 ---
 
 ### 👾 Code & Development
@@ -274,6 +280,12 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [kapa](https://www.kapa.ai/)  
    Kapa.ai learns from your technical resources to generate an LLM-powered chatbot that answers developer questions automatically and helps you find gaps in your docs.
 
+- [Git](https://gitstart.com/)  
+   Assign tickets, get high-quality production code powered by AI agents and our developer community.
+
+- [CodeStory](https://codestory.ai/)  
+   CodeStory is an AI-powered mod of VSCode. Imagine a developer tasked with solving a bug, CodeStory can scan the codebase, identify the root cause, put up the fix and test the changes to ensure it doesn't repeat.
+
 #### Site Builder
 
 - [V0.dev](https://v0.dev/)  
@@ -302,6 +314,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [Vercel AI](https://github.com/vercel/ai)  
    Build AI-powered applications with React, Svelte, Vue, and Solid. 
+
+- [Builder.ai](https://www.builder.ai/)  
+   Created a new category between low-code and custom software to provide flexible, bespoke apps at the speed and cost of an off-the-shelf product.
 
 #### Code Review
 
@@ -355,6 +370,12 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [BrightData](https://brightdata.com/)   
    Award-winning proxy networks, AI-powered web scrapers, and business-ready datasets for download. Welcome to the internet’s most trusted web data platform.
 
+- [Fluent](https://www.fluenthq.com/)  
+   Fluent empowers your decision makers with AI: Ask data questions directly, get insights instantly.
+
+- [Sigma AI](https://sigma.ai/)  
+   Sigma AI is a global training data collection, preparation and annotation services company, specializing in Generative AI. We provide the highest quality training data at scale, with a human touch.
+
 ---
 
 ### 👔 Business & Marketing
@@ -391,6 +412,15 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [Wordsmith](https://www.wordsmith.ai/)  
    Make in-house legal accessible to the rest of the business and process workflows, documents and routine legal tasks in seconds.
+
+- [Yuma](https://yuma.ai/)  
+   Empowering Shopify merchants with automated AI customer service, boosting agent productivity while slashing costs.
+
+- [Workflow86](https://www.workflow86.com/)  
+   Automating complex business processes made effortless.
+
+- [FIELDGUIDE](https://www.fieldguide.io/)  
+   The Fieldguide AI Platform for Advisory & Audit Firms saves time, increases margins, and improves client satisfaction.
 
 ---
 
@@ -512,6 +542,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Google AI Studio](https://aistudio.google.com/app/prompts/new_chat)  
    Google AI Studio is a browser-based IDE for prototyping with generative models. Google AI Studio lets you quickly try out models and experiment with different prompts. When you've built something you're happy with, you can export it to code in your preferred programming language, powered by the Gemini API.
 
+- [ENCORD](https://encord.com/)  
+   Encord is the leading data development platform for computer vision & multimodal AI teams. Intelligently manage, clean and curate data, streamline your labeling and workflow management, and evaluate model performance.
+
 ---
 
 ### 🧰 Others
@@ -557,6 +590,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [wonderchat](https://wonderchat.io/)  
    Instantly build AI chatbots from your knowledge base.
+
+- [Toko](https://www.tokotutor.com/en)  
+   Learn English by speaking with an AI. Practice realistic conversations. Get instant grammar feedback. Anytime, anywhere.        
 
 ---
 
