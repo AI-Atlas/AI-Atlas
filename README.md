@@ -558,6 +558,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Open Diffusion](https://github.com/HVision-NKU/StoryDiffusion)  
    Consistent Self-Attention for Long-Range Image and Video Generation.
 
+- [Ultimate Vocal Remover GUI](https://github.com/Anjok07/ultimatevocalremovergui)  
+   GUI for a Vocal Remover that uses Deep Neural Networks.
+
 ---
 
 ### 📒 Libraries
