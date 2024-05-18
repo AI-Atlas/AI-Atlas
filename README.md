@@ -5,6 +5,7 @@ This is an atlas of AI tools that are available on the web. This directory conta
 ## Category
 
 - [Assistance \& Chat](#-assistance--chat)
+- [Learning](#-learning)
 - [Productivity](#-productivity)
 - [Text to Speech](#-text-to-speech)
 - [Design \& Creativity](#-design--creativity)
@@ -23,6 +24,7 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Resume \& Career](#-resume--career)
 - [Data \& Monitoring](#-data--monitoring)
 - [Business \& Marketing](#-business--marketing)
+- [Crypto](#-crypto)
 - [OCR](#-ocr)
 - [Financial \& Accounting](#-financial--accounting)
 - [Research \& Academic](#-research--academic)
@@ -30,6 +32,7 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Open-source \& Self-hosted](#-open-source--self-hosted)
 - [Libraries](#-libraries)
 - [Hardware \& Cloud](#-hardware--cloud)
+- [Game \& Entertainment](#-game--entertainment)
 - [AI Tools](#-ai-tools)
 - [Others](#-others)
 
@@ -75,6 +78,16 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [Google PaLM2](https://ai.google/discover/palm2/)  
    PaLM 2 is our next generation large language model that builds on Google’s legacy of breakthrough research in machine learning and responsible AI.
+
+- [Quickchat AI](https://www.quickchat.ai/)  
+   Design, tweak, and deploy your own AI Assistant to automate customer support, lead generation, and much more.
+
+---
+
+### 🧑‍🏫 Learning
+
+- [Speak](https://www.speak.com/)  
+   Talk out loud, get instant feedback, and become fluent with the world’s most advanced AI language tutor.
 
 ---
 
@@ -286,6 +299,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [CodeStory](https://codestory.ai/)  
    CodeStory is an AI-powered mod of VSCode. Imagine a developer tasked with solving a bug, CodeStory can scan the codebase, identify the root cause, put up the fix and test the changes to ensure it doesn't repeat.
 
+- [Tempo Labs](https://www.tempolabs.ai/)  
+   Build Beautiful UIs 10X Faster, With AI.
+
 #### Site Builder
 
 - [V0.dev](https://v0.dev/)  
@@ -376,6 +392,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Sigma AI](https://sigma.ai/)  
    Sigma AI is a global training data collection, preparation and annotation services company, specializing in Generative AI. We provide the highest quality training data at scale, with a human touch.
 
+- [Heron AI](https://heron-ai.com/)  
+   Assess your impact, drive profit, and discover valuable insights automatically with AI.
+
 ---
 
 ### 👔 Business & Marketing
@@ -421,6 +440,25 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [FIELDGUIDE](https://www.fieldguide.io/)  
    The Fieldguide AI Platform for Advisory & Audit Firms saves time, increases margins, and improves client satisfaction.
+
+- [Flagright](https://www.flagright.com/)  
+   Flagright is an AI-native, centralized, no-code compliance platform that transforms AML compliance and fraud prevention for fintechs and banks.
+
+- [Typewise](https://www.typewise.app/)  
+   3X your customer service & sales productivity with our AI Communication Assistant.
+
+- [Khoros](https://khoros.com/)  
+   Khoros connects every facet of customer engagement, including digital contact centers, messaging, chat, online brand communities, CX analytics, and social media management. Combined with our top-rated services, the Khoros platform enables brands to connect with customers throughout their entire digital journey.
+
+- [WiseWorld](https://www.wiseworld.ai/)  
+   An AI-simulated platform for soft skills assessment & development. WiseWorld helps employees practice, make mistakes, and improve their soft skills on a daily basis.
+
+---
+
+### 💸 Crypto
+
+- [wisdomise](https://wisdomise.com/en)  
+   Wisdomise is an AI powerhouse, driven to solve inefficiencies in web3 and decentralized economy. It aims at reconciling human and machine intelligence for the purpose of tokenizing the wisdom of crowds and democratizing DeFi for the masses.
 
 ---
 
@@ -534,6 +572,13 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 -[RunPod](https://www.runpod.io/)  
    Globally distributed GPU cloud built for production. Develop, train, and scale AI applications.
+
+---
+
+### 🎮 Game & Entertainment
+
+- [Campfire](https://campfire.to/)  
+   Our first product is a game with LLM-based AI agents at the heart of the gameplay experience along with the tools to realize these worlds.
 
 ---
 
