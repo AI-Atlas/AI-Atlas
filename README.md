@@ -570,7 +570,7 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 ### 🛟 Hardware & Cloud
 
--[RunPod](https://www.runpod.io/)  
+- [RunPod](https://www.runpod.io/)  
    Globally distributed GPU cloud built for production. Develop, train, and scale AI applications.
 
 ---
