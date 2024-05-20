@@ -453,6 +453,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [WiseWorld](https://www.wiseworld.ai/)  
    An AI-simulated platform for soft skills assessment & development. WiseWorld helps employees practice, make mistakes, and improve their soft skills on a daily basis.
 
+- [Mendable](https://www.mendable.ai/)  
+   Train a secure AI on your technical resources that answers customer and employee questions so your team doesn't have to.
+
 ---
 
 ### 💸 Crypto
@@ -561,6 +564,12 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Ultimate Vocal Remover GUI](https://github.com/Anjok07/ultimatevocalremovergui)  
    GUI for a Vocal Remover that uses Deep Neural Networks.
 
+- [llama3.np](https://github.com/likejazz/llama3.np)  
+   llama3.np is pure NumPy implementation for Llama 3 model.
+
+- [Vila](https://github.com/Efficient-Large-Model/VILA)  
+   VILA is a visual language model (VLM) pretrained with interleaved image-text data at scale, enabling video understanding and multi-image understanding capabilities.
+
 ---
 
 ### 📒 Libraries
@@ -592,6 +601,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [ENCORD](https://encord.com/)  
    Encord is the leading data development platform for computer vision & multimodal AI teams. Intelligently manage, clean and curate data, streamline your labeling and workflow management, and evaluate model performance.
+
+- [Chat with Data](https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator)  
+    The Chat with your data Solution accelerator is a powerful tool that combines the capabilities of Azure AI Search and Large Language Models (LLMs) to create a conversational search experience.
 
 ---
 
@@ -640,7 +652,10 @@ This is an atlas of AI tools that are available on the web. This directory conta
    Instantly build AI chatbots from your knowledge base.
 
 - [Toko](https://www.tokotutor.com/en)  
-   Learn English by speaking with an AI. Practice realistic conversations. Get instant grammar feedback. Anytime, anywhere.        
+   Learn English by speaking with an AI. Practice realistic conversations. Get instant grammar feedback. Anytime, anywhere.   
+
+- [Cove](https://cove.ai/)  
+   Cove is a wide open space where you can think together with AI.
 
 ---
 
