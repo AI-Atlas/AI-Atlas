@@ -130,6 +130,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Play.ht](https://play.ht/)  
    Ultra realistic Text to Speech(TTS) voice. Leading AI Voice Generator. Free Unlimited downloads. Most Fluent & Conversational AI voices
 
+- [SoundHound AI](https://www.soundhound.com/)  
+   SoundHound’s Voice AI Technology Processes Speech Like the Human Brain. SoundHound’s proprietary technology was built to understand the complexity of speech and interpret meaning—just like the human brain.
+
 ---
 
 ### 🪄 Design & Creativity
@@ -185,6 +188,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [userevaluation](https://www.userevaluation.com/)  
    Seamlessly convert customer data into strategic assets using our all-encompassing AI analysis toolkit.
+
+- [Userology](https://www.userology.co/)  
+   Userology.co uses conversational AI to moderate usability testing sessions, helping you 10x the quality of insights much faster without human intervention. 
 
 #### Viedo & Multi-Media
 
@@ -301,6 +307,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [Tempo Labs](https://www.tempolabs.ai/)  
    Build Beautiful UIs 10X Faster, With AI.
+
+- [Codium](https://www.codium.ai/)  
+   With CodiumAI, you get non-trivial tests (and trivial, too!) suggested right inside your IDE or Git platform, so you can code smart and stay confident when you push.
 
 #### Site Builder
 
@@ -480,6 +489,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Brex AI](https://www.brex.com/platform/brex-ai)  
    Reduce expense busywork by 10x while increasing compliance and accuracy. Brex AI eliminates manual work by automating tasks across our spend platform.
 
+- [FLYFIN](https://flyfin.tax/)  
+   FlyFin is a consumer startup focused on automating the financial lives of US consumers.
+
 ---
 
 ### 🔬 Research & Academic
@@ -570,6 +582,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Vila](https://github.com/Efficient-Large-Model/VILA)  
    VILA is a visual language model (VLM) pretrained with interleaved image-text data at scale, enabling video understanding and multi-image understanding capabilities.
 
+- [Khoj](https://github.com/khoj-ai/khoj)  
+   Khoj is an application that creates always-available, personal AI agents for you to extend your capabilities.
+
 ---
 
 ### 📒 Libraries
@@ -656,6 +671,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [Cove](https://cove.ai/)  
    Cove is a wide open space where you can think together with AI.
+
+- [MiniCPM](https://github.com/OpenBMB/MiniCPM-V)  
+   MiniCPM-Llama3-V 2.5: A GPT-4V Level Multimodal LLM on Your Phone.
 
 ---
 
