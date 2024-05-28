@@ -695,6 +695,6 @@ The list is not complete also with the speed of the AI industry, there is a lot 
 
  **Coming Soon:**
 
-- [] Pricing
-- [] Tools Description
-- [] Usage Detail
+- [ ] Pricing
+- [ ] Tools Description
+- [ ] Usage Detail
