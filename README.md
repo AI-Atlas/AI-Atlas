@@ -1,5 +1,5 @@
 # AI-Atlas
-[<img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DAI-Atlas&longCache=true"/>](https://github.com/AI-Atlas)    ||    <img src="https://img.shields.io/github/stars/AI-Atlas?label=Stars" alt="stars">
+[<img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DAI-Atlas&longCache=true"/>](https://github.com/AI-Atlas)    <img src="https://img.shields.io/github/stars/AI-Atlas?label=Stars" alt="stars">
 
 
 This is an atlas of AI tools that are available on the web. This directory contains both free and paid tools.
