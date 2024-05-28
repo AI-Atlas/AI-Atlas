@@ -467,6 +467,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Mendable](https://www.mendable.ai/)  
    Train a secure AI on your technical resources that answers customer and employee questions so your team doesn't have to.
 
+- [YourGPT](https://yourgpt.ai/)  
+   Harness the Potential of Large Language Models (LLMs) for Business Innovation.
+
 ---
 
 ### 💸 Crypto
@@ -587,13 +590,15 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Khoj](https://github.com/khoj-ai/khoj)  
    Khoj is an application that creates always-available, personal AI agents for you to extend your capabilities.
 
+- [RAGapp](https://github.com/ragapp/ragapp)  
+   As simple to configure as OpenAI's custom GPTs, but deployable in your own cloud infrastructure using Docker.
+
 ---
 
 ### 📒 Libraries
 
 - [Apple CoreNet](https://github.com/apple/corenet)  
    CoreNet is a deep neural network toolkit that allows researchers and engineers to train standard and novel small and large-scale models for variety of tasks, including foundation models (e.g., CLIP and LLM), object classification, object detection, and semantic segmentation.
-
 
 ---
 
@@ -621,6 +626,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [Chat with Data](https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator)  
     The Chat with your data Solution accelerator is a powerful tool that combines the capabilities of Azure AI Search and Large Language Models (LLMs) to create a conversational search experience.
+
+- [Chatbot](https://yourgpt.ai/chatbot/studio)  
+   Take your chatbot beyond traditional boundaries with ChatBot Studio. Design dynamic flows to make your chatbot smarter and more responsive.
 
 ---
 
@@ -687,6 +695,6 @@ The list is not complete also with the speed of the AI industry, there is a lot 
 
  **Coming Soon:**
 
-- Pricing
-- Tools Description
-- Usage Detail
+- [] Pricing
+- [] Tools Description
+- [] Usage Detail
