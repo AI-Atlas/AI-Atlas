@@ -138,6 +138,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [SoundHound AI](https://www.soundhound.com/)  
    SoundHound’s Voice AI Technology Processes Speech Like the Human Brain. SoundHound’s proprietary technology was built to understand the complexity of speech and interpret meaning—just like the human brain.
 
+- [ChatTTS](https://github.com/2noise/ChatTTS)  
+   ChatTTS is a text-to-speech model designed specifically for dialogue scenario such as LLM assistant. It supports both English and Chinese languages.
+
 ---
 
 ### 🪄 Design & Creativity
@@ -167,6 +170,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [Ilus AI](https://ilus.ai/)  
    Get beautiful, stylistically consistent illustrations in minutes.
+
+- [Omost](https://github.com/lllyasviel/Omost)  
+   Omost is a project to convert LLM's coding capability to image generation (or more accurately, image composing) capability.
 
 #### UI & UX
 
@@ -219,6 +225,18 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [Remini](https://remini.ai/)  
    Transformative technology gives your low-quality visuals a stunning HD upgrade. Restore old photos to incredible detail and elevate your content to a professional level.
+
+- [Novita](https://novita.ai/)  
+   Explore the full spectrum of AI APIs tailored for image, video, audio, and LLM applications. Novita AI is designed to elevate your AI-driven business at the pace of technology, offering model hosting and training solutions.
+
+- [ToonCrafter](https://github.com/ToonCrafter/ToonCrafter)  
+   ToonCrafter can interpolate two cartoon images by leveraging the pre-trained image-to-video diffusion priors. Please check our project page and paper for more information.
+
+- [MusePose](https://github.com/TMElyralab/MusePose)  
+   MusePose: a Pose-Driven Image-to-Video Framework for Virtual Human Generation.
+
+- [V-Express](https://github.com/tencent-ailab/V-Express)  
+   V-Express aims to generate a talking head video under the control of a reference image, an audio, and a sequence of V-Kps images.
 
 #### 3D Modeling
 
@@ -473,6 +491,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [YourGPT](https://yourgpt.ai/)  
    Harness the Potential of Large Language Models (LLMs) for Business Innovation.
 
+- [Nory](https://nory.ai/)  
+   Every ambitious restaurant business wants to open lots of venues. To do that successfully, you need consistency in operational standards and profitability across each venue. Nory is purpose built to help you achieve this.
+
 ---
 
 ### 💸 Crypto
@@ -500,6 +521,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [FLYFIN](https://flyfin.tax/)  
    FlyFin is a consumer startup focused on automating the financial lives of US consumers.
+
+- [FinRobot](https://github.com/AI4Finance-Foundation/FinRobot)  
+   An Open-Source AI Agent Platform for Financial Applications using Large Language Models.
 
 ---
 
@@ -597,6 +621,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [RAGapp](https://github.com/ragapp/ragapp)  
    As simple to configure as OpenAI's custom GPTs, but deployable in your own cloud infrastructure using Docker.
 
+- [AnimateAnyone](https://github.com/novitalabs/AnimateAnyone)  
+   Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation.
+
 ---
 
 ### 📒 Libraries
@@ -606,6 +633,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [Cognita](https://github.com/truefoundry/cognita)  
    Langchain/LlamaIndex provide easy to use abstractions that can be used for quick experimentation and prototyping on jupyter notebooks.
+
+- [Copilot Kit](https://github.com/CopilotKit/CopilotKit)  
+   A framework for building custom AI Copilots 🤖 in-app AI chatbots, in-app AI Agents, & AI-powered Textareas.
 
 ---
 
@@ -645,6 +675,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [truefoundry](https://www.truefoundry.com/)  
    Build fast, secure and cost-efficient ML/LLM Apps. TrueFoundry takes care of the tricky details of production machine learning so you can focus on using ML to deliver value.
+
+- [PhotoPrism](https://github.com/photoprism/photoprism)  
+   PhotoPrism® is an AI-Powered Photos App for the Decentralized Web. It makes use of the latest technologies to tag and find pictures automatically without getting in your way. You can run it at home, on a private server, or in the cloud.
 
 ---
 
@@ -700,6 +733,12 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [MiniCPM](https://github.com/OpenBMB/MiniCPM-V)  
    MiniCPM-Llama3-V 2.5: A GPT-4V Level Multimodal LLM on Your Phone.
+
+- [Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai)  
+   ScrapeGraphAI is a web scraping python library that uses LLM and direct graph logic to create scraping pipelines for websites and local documents (XML, HTML, JSON, etc.).
+
+- [StreamV2V](https://github.com/Jeff-LiangF/streamv2v)  
+   Our StreamV2V could perform real-time video-2-video translation on one RTX 4090 GPU.
 
 ---
 
