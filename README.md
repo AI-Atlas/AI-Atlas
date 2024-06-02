@@ -5,38 +5,41 @@
 This is an atlas of AI tools that are available on the web. This directory contains both free and paid tools.
 
 ## Category
+<!-- TOC depthfrom:3 -->
 
-- [Assistance \& Chat](#-assistance--chat)
-- [Learning](#-learning)
-- [Productivity](#-productivity)
-- [Text to Speech](#-text-to-speech)
-- [Design \& Creativity](#-design--creativity)
-  - [Image Generator](#image-generator)
-  - [UI & UX](#ui--ux)
-  - [Video \& Multi-Media](#viedo--multi-media)
-  - [3D Modeling](#3d-modeling)
-  - [Icon](#icon)
-  - [Colors](#colors)
-  - [Music \& Sound](#music--sound)
-- [Engineering](#-engineering)
-- [Code \& Development](#-code--development)
-  - [Code Assistance](#code-assistance)
-  - [Site Builder](#site-builder)
-  - [Code Review](#code-review)
-- [Resume \& Career](#-resume--career)
-- [Data \& Monitoring](#-data--monitoring)
-- [Business \& Marketing](#-business--marketing)
-- [Crypto](#-crypto)
-- [OCR](#-ocr)
-- [Financial \& Accounting](#-financial--accounting)
-- [Research \& Academic](#-research--academic)
-- [Health \& Wellbeing](#-health--wellbeing)
-- [Open-source \& Self-hosted](#-open-source--self-hosted)
-- [Libraries](#-libraries)
-- [Hardware \& Cloud](#-hardware--cloud)
-- [Game \& Entertainment](#-game--entertainment)
-- [AI Tools](#-ai-tools)
-- [Others](#-others)
+- [🤖 Assistance & Chat](#-assistance--chat)
+- [🧑‍🏫 Learning](#%E2%80%8D-learning)
+- [🎯 Productivity](#-productivity)
+- [🎧 Text to Speech](#-text-to-speech)
+- [🪄 Design & Creativity](#%F0%9F%AA%84-design--creativity)
+    - [Image Generator](#image-generator)
+    - [UI & UX](#ui--ux)
+    - [Viedo & Multi-Media](#viedo--multi-media)
+    - [D Modeling](#d-modeling)
+    - [Icon](#icon)
+    - [Colors](#colors)
+    - [Music & Sound](#music--sound)
+- [🪛 Engineering](#%F0%9F%AA%9B-engineering)
+- [👾 Code & Development](#-code--development)
+    - [Code Assistance](#code-assistance)
+    - [Site Builder](#site-builder)
+    - [Code Review](#code-review)
+- [📄 Resume & Career](#-resume--career)
+- [📊 Data & Monitoring](#-data--monitoring)
+- [👔 Business & Marketing](#-business--marketing)
+- [💸 Crypto](#-crypto)
+- [🔍 OCR](#-ocr)
+- [🧮 Financial & Accounting](#%F0%9F%A7%AE-financial--accounting)
+- [🔬 Research & Academic](#-research--academic)
+- [🩺 Health & Wellbeing](#%F0%9F%A9%BA-health--wellbeing)
+- [🔮 Open-source & Self-hosted](#-open-source--self-hosted)
+- [📒 Libraries](#-libraries)
+- [🛟 Hardware & Cloud](#%F0%9F%9B%9F-hardware--cloud)
+- [🎮 Game & Entertainment](#-game--entertainment)
+- [⚙️ AI Tools](#-ai-tools)
+- [🧰 Others](#%F0%9F%A7%B0-others)
+
+<!-- /TOC -->
 
 ## List of Tools
 
@@ -484,8 +487,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Taggun](https://www.taggun.io/)
    Giving purpose to receipts with AI. Join the revolution of businesses transforming their receipts into powerful digital data.  
 
-- [CRADL AI](https://www.cradl.ai/use-cases/receipt-ocr-api)
-   Receipt OCR API Accurate and flexible parsing of receipts using deep learning. Powered by your data.
+
+- [Surya](https://github.com/VikParuchuri/surya)  
+   Open-source OCR, layout analysis, reading order, line detection in 90+ languages.
 
 ---
 
@@ -600,6 +604,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Apple CoreNet](https://github.com/apple/corenet)  
    CoreNet is a deep neural network toolkit that allows researchers and engineers to train standard and novel small and large-scale models for variety of tasks, including foundation models (e.g., CLIP and LLM), object classification, object detection, and semantic segmentation.
 
+- [Cognita](https://github.com/truefoundry/cognita)  
+   Langchain/LlamaIndex provide easy to use abstractions that can be used for quick experimentation and prototyping on jupyter notebooks.
+
 ---
 
 ### 🛟 Hardware & Cloud
@@ -629,6 +636,15 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [Chatbot](https://yourgpt.ai/chatbot/studio)  
    Take your chatbot beyond traditional boundaries with ChatBot Studio. Design dynamic flows to make your chatbot smarter and more responsive.
+
+- [Kong](https://github.com/Kong/kong)  
+   Kong or Kong API Gateway is a cloud-native, platform-agnostic, scalable API Gateway distinguished for its high performance and extensibility via plugins. It also provides advanced AI capabilities with multi-LLM support.
+
+- [Llama FS](https://github.com/iyaja/llama-fs)  
+   LlamaFS is a self-organizing file manager. It automatically renames and organizes your files based on their contents and well-known conventions (e.g., time). It supports many kinds of file, and even images (through Moondream) and audio (through Whisper).
+
+- [truefoundry](https://www.truefoundry.com/)  
+   Build fast, secure and cost-efficient ML/LLM Apps. TrueFoundry takes care of the tricky details of production machine learning so you can focus on using ML to deliver value.
 
 ---
 
