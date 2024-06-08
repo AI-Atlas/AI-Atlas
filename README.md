@@ -11,6 +11,7 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [🧑‍🏫 Learning](#%E2%80%8D-learning)
 - [🎯 Productivity](#-productivity)
 - [🎧 Text to Speech](#-text-to-speech)
+- [🎙️ Aurdio Generation](#-aurdio-generation)
 - [🪄 Design & Creativity](#%F0%9F%AA%84-design--creativity)
     - [Image Generator](#image-generator)
     - [UI & UX](#ui--ux)
@@ -32,6 +33,7 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [🧮 Financial & Accounting](#%F0%9F%A7%AE-financial--accounting)
 - [🔬 Research & Academic](#-research--academic)
 - [🩺 Health & Wellbeing](#%F0%9F%A9%BA-health--wellbeing)
+- [🗜️ Hardware](#-hardware)
 - [🔮 Open-source & Self-hosted](#-open-source--self-hosted)
 - [📒 Libraries](#-libraries)
 - [🛟 Hardware & Cloud](#%F0%9F%9B%9F-hardware--cloud)
@@ -140,6 +142,12 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [ChatTTS](https://github.com/2noise/ChatTTS)  
    ChatTTS is a text-to-speech model designed specifically for dialogue scenario such as LLM assistant. It supports both English and Chinese languages.
+
+---
+### 🎙️ Aurdio Generation
+
+- [Stable Audio Tools](https://github.com/Stability-AI/stable-audio-tools)  
+   Training and inference code for audio generation models.
 
 ---
 
@@ -541,6 +549,13 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [Corti](https://www.corti.ai/)  
    Corti is a clinically proven AI guide that augments, automates, and analyzes virtual care and face-to-face patient engagements.
+
+---
+
+### 🗜️ Hardware
+
+- [Friend](https://github.com/BasedHardware/Friend)  
+   Open Source AI Wearable device that records everything you say, gives you proactive feedback and advice. 6+ days on single charge.
 
 ---
 
