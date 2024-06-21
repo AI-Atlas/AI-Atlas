@@ -143,6 +143,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [ChatTTS](https://github.com/2noise/ChatTTS)  
    ChatTTS is a text-to-speech model designed specifically for dialogue scenario such as LLM assistant. It supports both English and Chinese languages.
 
+- [Sherpa Onnx](https://github.com/k2-fsa/sherpa-onnx)  
+   Speech-to-text, text-to-speech, and speaker recognition using next-gen Kaldi with onnxruntime without Internet connection.
+
 ---
 ### 🎙️ Aurdio Generation
 
@@ -245,6 +248,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [V-Express](https://github.com/tencent-ailab/V-Express)  
    V-Express aims to generate a talking head video under the control of a reference image, an audio, and a sequence of V-Kps images.
+
+- [FunClip](https://github.com/modelscope/FunClip)  
+   FunClip is a fully open-source, locally deployed automated video clipping tool. It leverages Alibaba TONGYI speech lab's open-source FunASR Paraformer series models to perform speech recognition on videos.
 
 #### 3D Modeling
 
@@ -639,6 +645,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [AnimateAnyone](https://github.com/novitalabs/AnimateAnyone)  
    Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation.
 
+- [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter)  
+   Open Interpreter lets LLMs run code (Python, Javascript, Shell, and more) locally. You can chat with Open Interpreter through a ChatGPT-like interface in your terminal by running $ interpreter after installing.
+
 ---
 
 ### 📒 Libraries
@@ -651,6 +660,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [Copilot Kit](https://github.com/CopilotKit/CopilotKit)  
    A framework for building custom AI Copilots 🤖 in-app AI chatbots, in-app AI Agents, & AI-powered Textareas.
+
+- [LSP-AI](https://github.com/SilasMarvin/lsp-ai)  
+   LSP-AI is an open source language server that serves as a backend for performing completion with large language models and soon other AI powered functionality. Because it is a language server, it works with any editor that has LSP support.
 
 ---
 
