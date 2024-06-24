@@ -348,6 +348,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Codium](https://www.codium.ai/)  
    With CodiumAI, you get non-trivial tests (and trivial, too!) suggested right inside your IDE or Git platform, so you can code smart and stay confident when you push.
 
+- [Aider](https://github.com/paul-gauthier/aider)  
+   Aider lets you pair program with LLMs, to edit code in your local git repository.
+
 #### Site Builder
 
 - [V0.dev](https://v0.dev/)  
@@ -664,6 +667,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [LSP-AI](https://github.com/SilasMarvin/lsp-ai)  
    LSP-AI is an open source language server that serves as a backend for performing completion with large language models and soon other AI powered functionality. Because it is a language server, it works with any editor that has LSP support.
 
+- [Mamba](https://github.com/state-spaces/mamba)  
+   Mamba is a new state space model architecture showing promising performance on information-dense data such as language modeling, where previous subquadratic models fall short of Transformers.
+
 ---
 
 ### 🛟 Hardware & Cloud
@@ -705,6 +711,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [PhotoPrism](https://github.com/photoprism/photoprism)  
    PhotoPrism® is an AI-Powered Photos App for the Decentralized Web. It makes use of the latest technologies to tag and find pictures automatically without getting in your way. You can run it at home, on a private server, or in the cloud.
+
+- [Lightning AI](https://lightning.ai/)  
+   Code together. Prototype. Train. Deploy. Host AI web apps. From your browser - with zero setup.
 
 ---
 
