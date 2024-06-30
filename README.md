@@ -351,6 +351,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Aider](https://github.com/paul-gauthier/aider)  
    Aider lets you pair program with LLMs, to edit code in your local git repository.
 
+- [amplication](https://amplication.com/)   
+   Build new services, extend existing applications or modernize legacy systems with Amplication AI. Go from idea to production in minutes, with code that is built to scale.
+
 #### Site Builder
 
 - [V0.dev](https://v0.dev/)  
@@ -651,6 +654,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter)  
    Open Interpreter lets LLMs run code (Python, Javascript, Shell, and more) locally. You can chat with Open Interpreter through a ChatGPT-like interface in your terminal by running $ interpreter after installing.
 
+- [Perplexica](https://github.com/ItzCrazyKns/Perplexica)  
+   Perplexica is an open-source AI-powered searching tool or an AI-powered search engine that goes deep into the internet to find answers. Inspired by Perplexity AI, it's an open-source option that not just searches the web but understands your questions.
+
 ---
 
 ### 📒 Libraries
@@ -715,6 +721,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Lightning AI](https://lightning.ai/)  
    Code together. Prototype. Train. Deploy. Host AI web apps. From your browser - with zero setup.
 
+- [ComfyUI](https://github.com/comfyanonymous/ComfyUI)  
+   The most powerful and modular stable diffusion GUI and backend. This ui will let you design and execute advanced stable diffusion pipelines using a graph/nodes/flowchart based interface.
+
 ---
 
 ### 🧰 Others
@@ -775,6 +784,12 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [StreamV2V](https://github.com/Jeff-LiangF/streamv2v)  
    Our StreamV2V could perform real-time video-2-video translation on one RTX 4090 GPU.
+
+- [MatMul](https://github.com/ridgerchu/matmulfreellm)  
+   MatMul-Free LM is a language model architecture that eliminates the need for Matrix Multiplication (MatMul) operations. This repository provides an implementation of MatMul-Free LM that is compatible with the 🤗 Transformers library.  
+
+- [Spreeedsheet nanoGPT](https://github.com/dabochen/spreadsheet-is-all-you-need)  
+   A nanoGPT pipeline packed in a spreadsheet. This is a project that I did to help myself understand how GPT works. It is pretty fun to play with, especially when you are trying to figure out what exactly is going on inside a transformer. This helped me to visualize the entire structure and the data flow. All the mechanisms, calculations, matrices inside are fully interactive and configurable.
 
 ---
 
