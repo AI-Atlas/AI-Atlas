@@ -16,7 +16,7 @@ This is an atlas of AI tools that are available on the web. This directory conta
     - [Image Generator](#image-generator)
     - [UI & UX](#ui--ux)
     - [Viedo & Multi-Media](#viedo--multi-media)
-    - [D Modeling](#d-modeling)
+    - [Modeling & 3D](#modeling--3d)
     - [Icon](#icon)
     - [Colors](#colors)
     - [Music & Sound](#music--sound)
@@ -252,7 +252,10 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [FunClip](https://github.com/modelscope/FunClip)  
    FunClip is a fully open-source, locally deployed automated video clipping tool. It leverages Alibaba TONGYI speech lab's open-source FunASR Paraformer series models to perform speech recognition on videos.
 
-#### 3D Modeling
+- [Hallo](https://github.com/fudan-generative-vision/hallo)  
+   Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation.
+
+#### Modeling & 3D
 
 - [Genie](https://lumalabs.ai/genie)  
    Genie allows anyone to generate realistic 3D models. The new tool can create 3D things from natural language prompts.
@@ -262,6 +265,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [InstantMesh](https://github.com/TencentARC/InstantMesh)  
    Efficient 3D Mesh Generation from a Single Image with Sparse-view Large Reconstruction Models
+
+- [Unique3D](https://github.com/AiuniAI/Unique3D)  
+   Official implementation of Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single Image.
 
 #### Icon
 
@@ -676,6 +682,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Mamba](https://github.com/state-spaces/mamba)  
    Mamba is a new state space model architecture showing promising performance on information-dense data such as language modeling, where previous subquadratic models fall short of Transformers.
 
+- [Meta Chamelon](https://github.com/facebookresearch/chameleon)  
+   A mixed-modal early-fusion foundation model from FAIR.
+
 ---
 
 ### 🛟 Hardware & Cloud
@@ -723,6 +732,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [ComfyUI](https://github.com/comfyanonymous/ComfyUI)  
    The most powerful and modular stable diffusion GUI and backend. This ui will let you design and execute advanced stable diffusion pipelines using a graph/nodes/flowchart based interface.
+
+- [MindsDB](https://mindsdb.com/)  
+   MindsDB is the open-source orchestration platform connecting AI and enterprise data, helping developers customize their AI solutions.
 
 ---
 
@@ -790,6 +802,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [Spreeedsheet nanoGPT](https://github.com/dabochen/spreadsheet-is-all-you-need)  
    A nanoGPT pipeline packed in a spreadsheet. This is a project that I did to help myself understand how GPT works. It is pretty fun to play with, especially when you are trying to figure out what exactly is going on inside a transformer. This helped me to visualize the entire structure and the data flow. All the mechanisms, calculations, matrices inside are fully interactive and configurable.
+
+- [Depth Anything V2](https://github.com/DepthAnything/Depth-Anything-V2)  
+   This work presents Depth Anything V2. It significantly outperforms V1 in fine-grained details and robustness. Compared with SD-based models, it enjoys faster inference speed, fewer parameters, and higher depth accuracy.
 
 ---
 
