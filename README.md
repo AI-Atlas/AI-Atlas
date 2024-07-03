@@ -583,6 +583,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [LLM 101n](https://github.com/karpathy/LLM101n)  
    In this course we will build a Storyteller AI Large Language Model (LLM). Hand in hand, you'll be able create, refine and illustrate little stories with the AI.
 
+- [Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners)  
+   18 Lessons teaching everything you need to know to start building Generative AI applications.
+
 ---
 
 ### 🔮 Open-source & Self-hosted
