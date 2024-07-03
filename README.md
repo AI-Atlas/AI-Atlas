@@ -34,6 +34,7 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [🔬 Research & Academic](#-research--academic)
 - [🩺 Health & Wellbeing](#%F0%9F%A9%BA-health--wellbeing)
 - [🗜️ Hardware](#-hardware)
+- [🧑‍🏫 Learning](#%E2%80%8D-learning)
 - [🔮 Open-source & Self-hosted](#-open-source--self-hosted)
 - [📒 Libraries](#-libraries)
 - [🛟 Hardware & Cloud](#%F0%9F%9B%9F-hardware--cloud)
@@ -577,6 +578,13 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 ---
 
+### 🧑‍🏫 Learning
+
+- [LLM 101n](https://github.com/karpathy/LLM101n)  
+   In this course we will build a Storyteller AI Large Language Model (LLM). Hand in hand, you'll be able create, refine and illustrate little stories with the AI.
+
+---
+
 ### 🔮 Open-source & Self-hosted
 
 - [LibreChat](https://github.com/danny-avila/LibreChat)  
@@ -684,6 +692,12 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [Meta Chamelon](https://github.com/facebookresearch/chameleon)  
    A mixed-modal early-fusion foundation model from FAIR.
+
+- [Maestro](https://github.com/Doriandarko/maestro)  
+   This Python script demonstrates an AI-assisted task breakdown and execution workflow using the Anthropic API. It utilizes two AI models, Opus and Haiku, to break down an objective into sub-tasks, execute each sub-task, and refine the results into a cohesive final output.
+
+- [Senabtic Kernel](https://github.com/microsoft/semantic-kernel)  
+   Semantic Kernel is an SDK that integrates Large Language Models (LLMs) like OpenAI, Azure OpenAI, and Hugging Face with conventional programming languages like C#, Python, and Java. Semantic Kernel achieves this by allowing you to define plugins that can be chained together in just a few lines of code.
 
 ---
 
@@ -805,6 +819,15 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [Depth Anything V2](https://github.com/DepthAnything/Depth-Anything-V2)  
    This work presents Depth Anything V2. It significantly outperforms V1 in fine-grained details and robustness. Compared with SD-based models, it enjoys faster inference speed, fewer parameters, and higher depth accuracy.
+
+- [Micrograd](https://github.com/karpathy/micrograd)  
+   A tiny Autograd engine (with a bite! :)). Implements backpropagation (reverse-mode autodiff) over a dynamically built DAG and a small neural networks library on top of it with a PyTorch-like API.
+
+- [DiffSynth](https://github.com/modelscope/DiffSynth-Studio)  
+   DiffSynth Studio is a Diffusion engine. We have restructured architectures including Text Encoder, UNet, VAE, among others, maintaining compatibility with models from the open-source community while enhancing computational performance.
+
+- [LOOKWISE](https://www.lookswise.ai/)  
+   Where Fashion Meets Future!
 
 ---
 
