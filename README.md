@@ -256,6 +256,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Hallo](https://github.com/fudan-generative-vision/hallo)  
    Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation.
 
+- [rapport](https://www.rapport.cloud/)  
+   Rapport is an audio-driven facial animation technology company powered by our award-winning Speech Graphics engine.
+
 #### Modeling & 3D
 
 - [Genie](https://lumalabs.ai/genie)  
@@ -520,6 +523,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [Nory](https://nory.ai/)  
    Every ambitious restaurant business wants to open lots of venues. To do that successfully, you need consistency in operational standards and profitability across each venue. Nory is purpose built to help you achieve this.
+
+- [Beamup](https://www.beamup.ai/)  
+   BeamUP is the world's first Enterprise Facility Intelligence Platform to provide full facility observability and insights for data-driven decision making.‍ The BeamUP platform is a global strategic solution that leverages unified, aggregated facility data and AI to empower physical security, IT and facilities management teams to make better decisions.
 
 ---
 
@@ -831,6 +837,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [LOOKWISE](https://www.lookswise.ai/)  
    Where Fashion Meets Future!
+
+- [Wanderboat](https://wanderboat.ai/)  
+   Wanderboat AI builds technologies that leverage deep search and generative AI to help people reconnect with the world. Explore, plan and share, your personalized AI companion starts from here!
 
 ---
 
