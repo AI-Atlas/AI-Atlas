@@ -23,7 +23,7 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [🪛 Engineering](#%F0%9F%AA%9B-engineering)
 - [👾 Code & Development](#-code--development)
     - [Code Assistance](#code-assistance)
-    - [Site Builder](#site-builder)
+    - [Site & App Builder](#site--app-builder)
     - [Code Review](#code-review)
 - [📄 Resume & Career](#-resume--career)
 - [📊 Data & Monitoring](#-data--monitoring)
@@ -364,7 +364,7 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [amplication](https://amplication.com/)   
    Build new services, extend existing applications or modernize legacy systems with Amplication AI. Go from idea to production in minutes, with code that is built to scale.
 
-#### Site Builder
+#### Site & App Builder
 
 - [V0.dev](https://v0.dev/)  
    v0 is a generative user interface system by Vercel powered by AI. It generates copy-and-paste friendly React code based on shadcn/ui and Tailwind CSS that people can use in their projects.
@@ -395,6 +395,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [Builder.ai](https://www.builder.ai/)  
    Created a new category between low-code and custom software to provide flexible, bespoke apps at the speed and cost of an off-the-shelf product.
+
+- [Widgera](https://widgera.com/)  
+   Widgera is a platform that empowers users to easily create personalized digital experiences. Its mission is to bring superpowers to digital presence creation, using Dynamic Interface Personalization to tailor content to user behavior, making every interaction unique and engaging. Ideal for SMEs, Widgera simplifies sophisticated web and app development.
 
 #### Code Review
 
@@ -526,6 +529,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [Beamup](https://www.beamup.ai/)  
    BeamUP is the world's first Enterprise Facility Intelligence Platform to provide full facility observability and insights for data-driven decision making.‍ The BeamUP platform is a global strategic solution that leverages unified, aggregated facility data and AI to empower physical security, IT and facilities management teams to make better decisions.
+
+- [ariglad](https://www.ariglad.com/)  
+   The first AI tool that auto-creates/updates your knowledge base from Zendesk, tickets, Slack, etc.
 
 ---
 
@@ -840,6 +846,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [Wanderboat](https://wanderboat.ai/)  
    Wanderboat AI builds technologies that leverage deep search and generative AI to help people reconnect with the world. Explore, plan and share, your personalized AI companion starts from here!
+
+- [PetSpotR](https://github.com/gh-productivity-workshops/PetSpotR)  
+   PetSpotR allows you to use advanced AI models to report and find lost pets. It is a sample application that uses Azure Machine Learning to train a model to detect pets in images.
 
 ---
 
