@@ -1,0 +1,81 @@
+{%- comment -%}
+*
+* MIT License
+* Copyright (c) 2020 Raghuveer S, Hiran Venugopalan
+*
+* Permission is hereby granted, free of charge, to any person obtaining a copy
+* of this software and associated documentation files (the "Software"), to deal
+* in the Software without restriction, including without limitation the rights
+* to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+* copies of the Software, and to permit persons to whom the Software is
+* furnished to do so, subject to the following conditions:
+*
+* The above copyright notice and this permission notice shall be included in all
+* copies or substantial portions of the Software.
+*
+* THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+* IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+* FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+* AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+* LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+* OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+* SOFTWARE.
+*
+* File: Feed.html
+* Author Raghuveer S, Hiran Venugopalan
+*
+* This file contains the markup for the context menu thingy you see when you right
+* click on the post titles on the home page.
+*
+{%- endcomment -%}
+
+<!--Notes Feed-->
+<!--Static Page : pages/notes.md-->
+
+{%- if page.feedformat == "card" -%}
+    {%- if site.preferences.search.enabled -%}
+        <!-- search bar -->
+        <div class="block">
+            <input class="input is-medium" type="text" placeholder="Search notes.." id="search-input" autocomplete="off">
+            <div id="search-results" class="search-results"></div>
+        </div>
+        <script type="text/javascript" src="{{ site.baseurl }}/assets/js/vendor/lunr.min.js"></script>
+        <script src="{{ site.baseurl }}/assets/js/Search.js"></script>
+    {%- endif -%}
+    <!-- feed with filter-->
+    <div class="related-wrapper">
+    {% assign note_items = site.notes | sort: "date" | reverse %}
+    {% for note_items in note_items %}
+        {%- if note_items.feed == "show" -%}
+                <div class="notelist-feed">
+                    <a href="{{ site.baseurl }}{{note_items.url}}">
+                        <h6>{{ note_items.title }}</h6>
+                        <p class="excerpt">
+                            {{ note_items.content | strip_html | strip | remove: "[[" | remove: "]]" | remove: "-" | escape | truncate: 200 }}
+                        </p>
+                    </a>
+                </div>
+        {%- endif -%}
+    {%- endfor -%}
+    </div>
+{%-endif -%}
+
+<!--Dynamic List Feed-->
+<!--Static Page : pages/lists.md-->
+
+{%- if page.feedformat == "row" -%}
+<div class="block">
+    {% assign note_items = site.notes | sort: "date" | reverse %}
+    {% for note_items in note_items %}
+        {%- if note_items.format == "list" -%}
+            <div class="list-feed">
+                    <a href="{{ site.baseurl }}{{note_items.url}}" style="text-decoration: none;display: flex;justify-content: space-between;flex-direction: row;width: 100%;">
+                        <div class="writinglist-title">
+                            {{note_items.title }}
+                        </div>
+                    </a>
+            </div>
+        {%-endif -%}
+    {%- endfor -%}
+    </div>
+{%-endif -%}

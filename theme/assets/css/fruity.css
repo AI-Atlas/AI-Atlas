@@ -1,0 +1,88 @@
+
+/*
+Based on https://github.com/jwarby/jekyll-pygments-themes ; Theme Fruity.
+Added variables to asssure all colors works with dark and light theme (partially it does)
+Some color variables are from style.css
+*/
+
+html {
+    --highlight-color-orange: #fb660a;
+    --highlight-color-green: #008800;
+    --highlight-color-red: #ff0007;
+    --highlight-color-pink: #ff0086;
+    --highlight-color-grey: #444444;
+    --highlight-color-khaki: #817816;
+    --highlight-color-comment-bg: #0f140f;
+    --highlight-color-whitespace: #888888;
+}
+
+.highlight pre { background-color: var(--color-border-light); }
+.highlight .hll { background-color: var(--color-border-light); }
+.highlight .c { color: var(--highlight-color-green); font-style: italic; background-color: var(--color-border-light); } /* Comment */
+.highlight .err { color: var(--color-text); } /* Error */
+.highlight .g { color: var(--color-text); } /* Generic */
+.highlight .k { color: var(--highlight-color-orange); font-weight: bold } /* Keyword */
+.highlight .l { color: var(--color-text); } /* Literal */
+.highlight .n { color: var(--color-text); } /* Name */
+.highlight .o { color: var(--color-text); } /* Operator */
+.highlight .x { color: var(--color-text); } /* Other */
+.highlight .p { color: var(--color-text); } /* Punctuation */
+.highlight .cm { color: var(--highlight-color-green); font-style: italic; background-color: var(--highlight-color-comment-bg) } /* Comment.Multiline */
+.highlight .cp { color: var(--highlight-color-red); font-weight: bold; font-style: italic; background-color: var(--highlight-color-comment-bg) } /* Comment.Preproc */
+.highlight .c1 { color: var(--highlight-color-green); font-style: italic; background-color: var(--highlight-color-comment-bg) } /* Comment.Single */
+.highlight .cs { color: var(--highlight-color-green); font-style: italic; background-color: var(--highlight-color-comment-bg)} /* Comment.Special */
+.highlight .gd { color: var(--color-text); } /* Generic.Deleted */
+.highlight .ge { color: var(--color-text); } /* Generic.Emph */
+.highlight .gr { color: var(--color-text); } /* Generic.Error */
+.highlight .gh { color: var(--color-text);; font-weight: bold } /* Generic.Heading */
+.highlight .gi { color: var(--color-text); } /* Generic.Inserted */
+.highlight .go { color: var(--highlight-color-grey); background-color: var(--highlight-color-comment-bg)} /* Generic.Output */
+.highlight .gp { color: var(--color-text); } /* Generic.Prompt */
+.highlight .gs { color: var(--color-text); } /* Generic.Strong */
+.highlight .gu { color: var(--color-text);; font-weight: bold } /* Generic.Subheading */
+.highlight .gt { color: var(--color-text); } /* Generic.Traceback */
+.highlight .kc { color: var(--highlight-color-orange); font-weight: bold } /* Keyword.Constant */
+.highlight .kd { color: var(--highlight-color-orange); font-weight: bold } /* Keyword.Declaration */
+.highlight .kn { color: var(--highlight-color-orange); font-weight: bold } /* Keyword.Namespace */
+.highlight .kp { color: var(--highlight-color-orange) } /* Keyword.Pseudo */
+.highlight .kr { color: var(--highlight-color-orange); font-weight: bold } /* Keyword.Reserved */
+.highlight .kt { color: var(--highlight-color-khaki); font-weight: bold } /* Keyword.Type */
+.highlight .ld { color: var(--color-text); } /* Literal.Date */
+.highlight .m { color: var(--color-text-link); font-weight: bold } /* Literal.Number */
+.highlight .s { color: var(--color-text-link) } /* Literal.String */
+.highlight .na { color: var(--highlight-color-pink); font-weight: bold } /* Name.Attribute */
+.highlight .nb { color: var(--color-text); } /* Name.Builtin */
+.highlight .nc { color: var(--color-text); } /* Name.Class */
+.highlight .no { color: var(--color-text-link) } /* Name.Constant */
+.highlight .nd { color: var(--color-text); } /* Name.Decorator */
+.highlight .ni { color: var(--color-text); } /* Name.Entity */
+.highlight .ne { color: var(--color-text); } /* Name.Exception */
+.highlight .nf { color: var(--highlight-color-pink); font-weight: bold } /* Name.Function */
+.highlight .nl { color: var(--color-text); } /* Name.Label */
+.highlight .nn { color: var(--color-text); } /* Name.Namespace */
+.highlight .nx { color: var(--color-text); } /* Name.Other */
+.highlight .py { color: var(--color-text); } /* Name.Property */
+.highlight .nt { color: var(--highlight-color-orange); font-weight: bold } /* Name.Tag */
+.highlight .nv { color: var(--highlight-color-orange) } /* Name.Variable */
+.highlight .ow { color: var(--color-text); } /* Operator.Word */
+.highlight .w { color: var( --highlight-color-whitespace); } /* Text.Whitespace NOT SURE */
+.highlight .mf { color: var(--color-text-link); font-weight: bold } /* Literal.Number.Float */
+.highlight .mh { color: var(--color-text-link); font-weight: bold } /* Literal.Number.Hex */
+.highlight .mi { color: var(--color-text-link); font-weight: bold } /* Literal.Number.Integer */
+.highlight .mo { color: var(--color-text-link); font-weight: bold } /* Literal.Number.Oct */
+.highlight .sb { color: var(--color-text-link) } /* Literal.String.Backtick */
+.highlight .sc { color: var(--color-text-link) } /* Literal.String.Char */
+.highlight .sd { color: var(--color-text-link) } /* Literal.String.Doc */
+.highlight .s2 { color: var(--color-text-link) } /* Literal.String.Double */
+.highlight .se { color: var(--color-text-link) } /* Literal.String.Escape */
+.highlight .sh { color: var(--color-text-link) } /* Literal.String.Heredoc */
+.highlight .si { color: var(--color-text-link) } /* Literal.String.Interpol */
+.highlight .sx { color: var(--color-text-link) } /* Literal.String.Other */
+.highlight .sr { color: var(--color-text-link) } /* Literal.String.Regex */
+.highlight .s1 { color: var(--color-text-link) } /* Literal.String.Single */
+.highlight .ss { color: var(--color-text-link) } /* Literal.String.Symbol */
+.highlight .bp { color: var(--color-text); } /* Name.Builtin.Pseudo */
+.highlight .vc { color: var(--highlight-color-orange) } /* Name.Variable.Class */
+.highlight .vg { color: var(--highlight-color-orange) } /* Name.Variable.Global */
+.highlight .vi { color: var(--highlight-color-orange) } /* Name.Variable.Instance */
+.highlight .il { color: var(--color-text-link); font-weight: bold } /* Literal.Number.Integer.Long */
