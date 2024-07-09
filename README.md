@@ -1,5 +1,6 @@
 ---
 layout: default
+title: AI Atlas
 ---
 
 # AI-Atlas

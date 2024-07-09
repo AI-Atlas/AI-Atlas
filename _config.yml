@@ -1,0 +1,9 @@
+title: AI Atlas
+description: >
+  A list of useful AI tools from across the web
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://ai-atlas.mosn.me" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+theme: minima
