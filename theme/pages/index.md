@@ -4,7 +4,7 @@
 
 layout: Post
 permalink: /
-title: Jekyll Garden
+title: Home
 ---
 
 {% include_relative ../README.md %}
