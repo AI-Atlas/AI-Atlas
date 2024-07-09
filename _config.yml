@@ -7,5 +7,3 @@ url: "http://ai-atlas.mosn.me" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 theme: minima
-readme_index:
-  enabled: true
