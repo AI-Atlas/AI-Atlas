@@ -90,6 +90,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Quickchat AI](https://www.quickchat.ai/)  
    Design, tweak, and deploy your own AI Assistant to automate customer support, lead generation, and much more.
 
+- [InstructLab](https://instructlab.ai/)
+   A new community-based approach to build truly open-source LLMs. [Github page](https://github.com/instructlab/instructlab)
+
 ---
 
 ### 🧑‍🏫 Learning
@@ -258,6 +261,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [rapport](https://www.rapport.cloud/)  
    Rapport is an audio-driven facial animation technology company powered by our award-winning Speech Graphics engine.
+
+- [LivePortrait](https://github.com/KwaiVGI/LivePortrait)  
+   Efficient Portrait Animation with Stitching and Retargeting Control.
 
 #### Modeling & 3D
 
@@ -714,6 +720,12 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Senabtic Kernel](https://github.com/microsoft/semantic-kernel)  
    Semantic Kernel is an SDK that integrates Large Language Models (LLMs) like OpenAI, Azure OpenAI, and Hugging Face with conventional programming languages like C#, Python, and Java. Semantic Kernel achieves this by allowing you to define plugins that can be chained together in just a few lines of code.
 
+- [Granite](https://www.ibm.com/granite)  
+   IBM® Granite™ is a family of artificial intelligence (AI) models purpose-built for business, engineered from scratch to help ensure trust and scalability in AI-driven applications. Open source Granite models are available today.
+
+- [Watsonx](https://www.ibm.com/watsonx)  
+   Readily build custom AI applications for your business, manage all data sources, and accelerate responsible AI workflows—all on one platform.
+
 ---
 
 ### 🛟 Hardware & Cloud
@@ -849,6 +861,12 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [PetSpotR](https://github.com/gh-productivity-workshops/PetSpotR)  
    PetSpotR allows you to use advanced AI models to report and find lost pets. It is a sample application that uses Azure Machine Learning to train a model to detect pets in images.
+
+- [GraphRAG](https://github.com/microsoft/graphrag)  
+   The GraphRAG project is a data pipeline and transformation suite that is designed to extract meaningful, structured data from unstructured text using the power of LLMs.
+
+- [ARC-AGI](https://github.com/fchollet/ARC-AGI)  
+   ARC can be seen as a general artificial intelligence benchmark, as a program synthesis benchmark, or as a psychometric intelligence test. It is targeted at both humans and artificially intelligent systems that aim at emulating a human-like form of general fluid intelligence.
 
 ---
 
