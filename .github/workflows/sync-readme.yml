@@ -1,4 +1,4 @@
-name: Sync README to Repository 1
+name: Sync README to Website Repository
 
 on:
   push:
