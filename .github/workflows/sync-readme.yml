@@ -1,0 +1,44 @@
+name: Sync README to Repository 1
+
+on:
+  push:
+    branches:
+      - main  # Trigger on changes to the main branch
+
+jobs:
+  sync-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository 2
+        uses: actions/checkout@v2
+        with:
+          repository: AI-Atlas/AI-Atlas
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Copy and rename README to repository 1
+        run: |
+          git clone https://<YOUR_GITHUB_USERNAME>:${{ secrets.FINE_GRAINED_PAT }}@github.com/AI-Atlas/ai-atlas-site.git
+          cp README.md ai-atlas-site/docs/list.md
+          cd ai-atlas-site
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/NEW_README.md  # Stage the new README file
+          git commit -m "Update README from AI-Atlas/AI-Atlas"
+          git push https://<YOUR_GITHUB_USERNAME>:${{ secrets.FINE_GRAINED_PAT }}@github.com/AI-Atlas/ai-atlas-site.git
+
+  trigger-build:
+    needs: sync-readme
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Trigger Build Workflow
+        uses: actions/github-script@v3
+        with:
+          script: |
+            github.rest.actions.createWorkflowDispatch({
+              owner: 'AI-Atlas',
+              repo: 'ai-atlas-site',
+              workflow_id: 'jekyll.yml',
+              ref: 'main'
+            })
