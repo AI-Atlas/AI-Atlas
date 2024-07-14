@@ -30,19 +30,3 @@ jobs:
           git add docs/list.md  # Adjust path if needed
           git commit -m "Update README from AI-Atlas/AI-Atlas"
           git push https://$GH_USERNAME:$FINE_GRAINED_PAT@github.com/AI-Atlas/ai-atlas-site.git
-
-  trigger-build:
-    needs: sync-readme
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Trigger Build Workflow
-        uses: actions/github-script@v3
-        with:
-          script: |
-            github.rest.actions.createWorkflowDispatch({
-              owner: 'AI-Atlas',
-              repo: 'ai-atlas-site',
-              workflow_id: 'jekyll.yml',
-              ref: 'main'
-            })
