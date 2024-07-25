@@ -189,6 +189,9 @@
 - [Omost](https://github.com/lllyasviel/Omost)  
    Omost is a project to convert LLM's coding capability to image generation (or more accurately, image composing) capability.
 
+- [Kolors](https://github.com/Kwai-Kolors/Kolors)  
+   Effective Training of Diffusion Model for Photorealistic Text-to-Image Synthesis.
+
 #### UI & UX
 
 - [Diagram](https://diagram.com/)  
@@ -692,6 +695,9 @@
 - [Perplexica](https://github.com/ItzCrazyKns/Perplexica)  
    Perplexica is an open-source AI-powered searching tool or an AI-powered search engine that goes deep into the internet to find answers. Inspired by Perplexity AI, it's an open-source option that not just searches the web but understands your questions.
 
+- [Claude](https://github.com/Doriandarko/claude-engineer)  
+   Claude Engineer is an advanced interactive command-line interface (CLI) that harnesses the power of Anthropic's Claude 3 and Claude 3.5 models to assist with a wide range of software development tasks.
+
 ---
 
 ### 📒 Libraries
@@ -725,6 +731,9 @@
 
 - [Watsonx](https://www.ibm.com/watsonx)  
    Readily build custom AI applications for your business, manage all data sources, and accelerate responsible AI workflows—all on one platform.
+
+- [candle](https://github.com/huggingface/candle)  
+   Candle is a minimalist ML framework for Rust with a focus on performance (including GPU support) and ease of use.
 
 ---
 
