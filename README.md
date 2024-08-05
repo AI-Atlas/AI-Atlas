@@ -698,6 +698,15 @@
 - [Claude](https://github.com/Doriandarko/claude-engineer)  
    Claude Engineer is an advanced interactive command-line interface (CLI) that harnesses the power of Anthropic's Claude 3 and Claude 3.5 models to assist with a wide range of software development tasks.
 
+- [Cake](https://github.com/evilsocket/cake)  
+   Distributed LLM inference for mobile, desktop and server.
+
+- [Langflow](https://github.com/langflow-ai/langflow)  
+   Langflow is a visual framework for building multi-agent and RAG applications. It's open-source, Python-powered, fully customizable, model and vector store agnostic.
+
+- [Neo4J Graph](https://github.com/neo4j-labs/llm-graph-builder)  
+   Neo4j graph construction from unstructured data using LLMs.
+
 ---
 
 ### 📒 Libraries
