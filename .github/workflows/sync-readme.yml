@@ -3,7 +3,7 @@ name: Sync README to Website Repository
 on:
   push:
     branches:
-      - main  # Trigger on changes to the main branch
+      - main  
 
 jobs:
   sync-readme:

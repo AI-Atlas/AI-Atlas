@@ -268,6 +268,9 @@
 - [LivePortrait](https://github.com/KwaiVGI/LivePortrait)  
    Efficient Portrait Animation with Stitching and Retargeting Control.
 
+- [AI4Animation](https://github.com/sebastianstarke/AI4Animation)  
+   Bringing Characters to Life with Computer Brains in Unity.
+
 #### Modeling & 3D
 
 - [Genie](https://lumalabs.ai/genie)  
@@ -542,6 +545,9 @@
 - [ariglad](https://www.ariglad.com/)  
    The first AI tool that auto-creates/updates your knowledge base from Zendesk, tickets, Slack, etc.
 
+- [Snorkel](https://snorkel.ai/)  
+   Snorkel AI makes AI development fast and practical by transforming manual AI development processes into programmatic solutions. Snorkel AI enables enterprises to develop AI that works for their unique workloads using their proprietary data and knowledge 10-100x faster.
+
 ---
 
 ### 💸 Crypto
@@ -744,6 +750,9 @@
 - [candle](https://github.com/huggingface/candle)  
    Candle is a minimalist ML framework for Rust with a focus on performance (including GPU support) and ease of use.
 
+- [Mem0](https://github.com/mem0ai/mem0)  
+   Mem0 provides an intelligent, adaptive memory layer for Large Language Models (LLMs), enhancing personalized AI experiences by retaining and utilizing contextual information across diverse applications.
+
 ---
 
 ### 🛟 Hardware & Cloud
@@ -885,6 +894,9 @@
 
 - [ARC-AGI](https://github.com/fchollet/ARC-AGI)  
    ARC can be seen as a general artificial intelligence benchmark, as a program synthesis benchmark, or as a psychometric intelligence test. It is targeted at both humans and artificially intelligent systems that aim at emulating a human-like form of general fluid intelligence.
+
+- [PDF Extract Kit](https://github.com/opendatalab/PDF-Extract-Kit)  
+   A Comprehensive Toolkit for High-Quality PDF Content Extraction.
 
 ---
 
