@@ -271,6 +271,9 @@
 - [AI4Animation](https://github.com/sebastianstarke/AI4Animation)  
    Bringing Characters to Life with Computer Brains in Unity.
 
+- [invideoAI](https://invideo.io/)  
+   Turn any idea into an attention-grabbing video instantly with invideo AI.  
+
 #### Modeling & 3D
 
 - [Genie](https://lumalabs.ai/genie)  
@@ -548,6 +551,15 @@
 - [Snorkel](https://snorkel.ai/)  
    Snorkel AI makes AI development fast and practical by transforming manual AI development processes into programmatic solutions. Snorkel AI enables enterprises to develop AI that works for their unique workloads using their proprietary data and knowledge 10-100x faster.
 
+- [windsor.ai](https://windsor.ai/)  
+   Connecting all marketing data with our marketing attribution software platform give marketers an increase in marketing ROI of 15-44%. Measure ROI for every channel, campaign, keyword and creative.
+
+- [Forecase](https://www.forecast.app/)  
+   Forecast helps operational leaders plan, run and track projects in one place to optimize productivity and increase utilization.
+
+- [AdCreative](https://www.adcreative.ai/)  
+   Generate ad creatives that outperform your competitors.
+
 ---
 
 ### 💸 Crypto
@@ -712,6 +724,9 @@
 
 - [Neo4J Graph](https://github.com/neo4j-labs/llm-graph-builder)  
    Neo4j graph construction from unstructured data using LLMs.
+
+- [ollama](https://github.com/ollama/ollama)  
+   Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
 
 ---
 
