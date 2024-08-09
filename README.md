@@ -128,6 +128,9 @@
 - [Worldtune](https://www.wordtune.com/)  
    Wordtune is a Generative AI platform for work productivity. By using reliable GenAI, professionals from all fields can grow their careers and stand out at work.
 
+- [Motion](https://www.usemotion.com/)  
+   Use AI to plan your work, automatically.
+
 ---
 
 ### 🎧 Text to Speech
@@ -728,6 +731,12 @@
 - [ollama](https://github.com/ollama/ollama)  
    Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
 
+- [Llama Models](https://github.com/meta-llama/llama-models)
+   Llama is an accessible, open large language model (LLM) designed for developers, researchers, and businesses to build, experiment, and responsibly scale their generative AI ideas.
+
+- [Llama Agentic](https://github.com/meta-llama/llama-agentic-system)  
+   Agentic components of the Llama Stack APIs.
+
 ---
 
 ### 📒 Libraries
@@ -818,6 +827,9 @@
 
 - [MindsDB](https://mindsdb.com/)  
    MindsDB is the open-source orchestration platform connecting AI and enterprise data, helping developers customize their AI solutions.
+
+- [Chatpad](https://chatpad.ai/)  
+   Not just another ChatGPT user-interface!
 
 ---
 
