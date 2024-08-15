@@ -737,6 +737,15 @@
 - [Llama Agentic](https://github.com/meta-llama/llama-agentic-system)  
    Agentic components of the Llama Stack APIs.
 
+- [Groq MOA](https://github.com/skapadia3214/groq-moa)  
+   This Streamlit application showcases the Mixture of Agents (MOA) architecture proposed by Together AI, powered by Groq LLMs.
+
+- [Fooocus](https://github.com/lllyasviel/Fooocus)  
+   Fooocus is an image generating software (based on Gradio).
+
+- [GPT4ALL](https://github.com/nomic-ai/gpt4all)  
+   GPT4All runs large language models (LLMs) privately on everyday desktops & laptops.
+
 ---
 
 ### 📒 Libraries
@@ -924,6 +933,12 @@
 
 - [PDF Extract Kit](https://github.com/opendatalab/PDF-Extract-Kit)  
    A Comprehensive Toolkit for High-Quality PDF Content Extraction.
+
+- [llm colosseum](https://github.com/OpenGenerativeAI/llm-colosseum)  
+   Benchmark LLMs by fighting in Street Fighter 3! The new way to evaluate the quality of an LLM.
+
+- [GPT Prompt Engineer](https://github.com/mshumer/gpt-prompt-engineer)  
+   Prompt engineering is kind of like alchemy. There's no clear way to predict what will work best. It's all about experimenting until you find the right prompt. gpt-prompt-engineer is a tool that takes this experimentation to a whole new level.
 
 ---
 
