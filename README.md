@@ -8,7 +8,7 @@
 - [🧑‍🏫 Learning](#%E2%80%8D-learning)
 - [🎯 Productivity](#-productivity)
 - [🎧 Text to Speech](#-text-to-speech)
-- [🎙️ Aurdio Generation](#-aurdio-generation)
+- [🎙️ Audio Generation](#-audio-generation)
 - [🪄 Design & Creativity](#%F0%9F%AA%84-design--creativity)
     - [Image Generator](#image-generator)
     - [UI & UX](#ui--ux)
@@ -154,10 +154,13 @@
    Speech-to-text, text-to-speech, and speaker recognition using next-gen Kaldi with onnxruntime without Internet connection.
 
 ---
-### 🎙️ Aurdio Generation
+### 🎙️ Audio Generation
 
 - [Stable Audio Tools](https://github.com/Stability-AI/stable-audio-tools)  
    Training and inference code for audio generation models.
+
+- [Artist Voice Over](https://artlist.io/voice-over)
+   The AI voice generator for video creators. Find your voice with the ultimate text-to-speech generator, featuring top voice actors exclusive to Artlist.
 
 ---
 
@@ -276,6 +279,9 @@
 
 - [invideoAI](https://invideo.io/)  
    Turn any idea into an attention-grabbing video instantly with invideo AI.  
+
+- [Typeframes](https://www.typeframes.com/)  
+   Create videos for YouTube, Instagram, and TikTok with simple text prompts. Our AI-powered tool transforms text into stunning videos in minutes! Boost engagement, save money, and save time with Typeframes.
 
 #### Modeling & 3D
 
@@ -840,6 +846,9 @@
 - [Chatpad](https://chatpad.ai/)  
    Not just another ChatGPT user-interface!
 
+- [Gumloop](https://www.gumloop.com/)  
+   Drag, drop, and deploy custom tools your business needs. Automate any workflow with AI. No AI expertise needed.
+
 ---
 
 ### 🧰 Others
@@ -939,6 +948,12 @@
 
 - [GPT Prompt Engineer](https://github.com/mshumer/gpt-prompt-engineer)  
    Prompt engineering is kind of like alchemy. There's no clear way to predict what will work best. It's all about experimenting until you find the right prompt. gpt-prompt-engineer is a tool that takes this experimentation to a whole new level.
+
+- [Jina](https://jina.ai/)  
+   Jina AI is a leading search AI company. We provide the Search Foundation, the core for GenAI and multimodal applications.
+
+- [Reply Guy](https://replyguy.com/)  
+   ReplyGuy finds the perfect conversations to mention your product and drafts suggested replies.
 
 ---
 
