@@ -130,6 +130,9 @@
 
 - [Motion](https://www.usemotion.com/)  
    Use AI to plan your work, automatically.
+    
+- [Audionotes](https://www.audionotes.app/)  
+   Speak or type, Audionotes will transform your notes into searchable clear actionable text notes using AI.
 
 ---
 
@@ -751,6 +754,12 @@
 
 - [GPT4ALL](https://github.com/nomic-ai/gpt4all)  
    GPT4All runs large language models (LLMs) privately on everyday desktops & laptops.
+
+- [torchchat](https://github.com/pytorch/torchchat)  
+   torchchat is a small codebase showcasing the ability to run large language models (LLMs) seamlessly. With torchchat, you can run LLMs using Python, within your own (C/C++) application (desktop or server) and on iOS and Android.
+
+- [Flux AI](https://github.com/black-forest-labs/flux)  
+   The best of FLUX.1, offering state-of-the-art performance image generation with top of the line prompt following, visual quality, image detail and output diversity. We are slowly ramping up our inference compute for FLUX.1 in our API.
 
 ---
 
