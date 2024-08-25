@@ -38,10 +38,8 @@
 - [🎮 Game & Entertainment](#-game--entertainment)
 - [⚙️ AI Tools](#-ai-tools)
 - [🧰 Others](#%F0%9F%A7%B0-others)
+- [📋 Directories](#-directories)
 
-<!-- /TOC -->
-<!-- /TOC -->
-<!-- /TOC -->
 <!-- /TOC -->
 
 ## List of Tools
@@ -426,6 +424,10 @@
 - [Widgera](https://widgera.com/)  
    Widgera is a platform that empowers users to easily create personalized digital experiences. Its mission is to bring superpowers to digital presence creation, using Dynamic Interface Personalization to tailor content to user behavior, making every interaction unique and engaging. Ideal for SMEs, Widgera simplifies sophisticated web and app development.
 
+- [Wegic AI](https://wegic.ai/)  
+   Wegic is here to simplify the process of creating your ideal website through natural conversations. Just express your design preferences , adjustments, or tweaks, and Wegic will swiftly understand and cater to your needs. Moreover, Wegic allows you to effortlessly publish your site with a custom domain, making website creation as easy as chatting with a designer friend right beside you.
+
+
 #### Code Review
 
 - [CodeRabbit](https://coderabbit.ai/)  
@@ -452,6 +454,9 @@
 
 - [Final Round AI](https://www.finalroundai.com/)  
    Interview Copilot®️ generating actionable guidance in real-time.
+
+- [Interview with AI](https://interviewwith.ai/)  
+   Create a personalized interview preparation roadmap for the job description you pasted, see what you need to learn, solve quizzes, practice with AI like an actual online interview, and get a feedback at the end.
 
 ---
 
@@ -571,6 +576,9 @@
 
 - [AdCreative](https://www.adcreative.ai/)  
    Generate ad creatives that outperform your competitors.
+
+- [Spot AI](https://www.spot.ai/)  
+   Spot AI builds a modern AI camera system to create safer workplaces and smarter operations for every business.
 
 ---
 
@@ -963,6 +971,13 @@
 
 - [Reply Guy](https://replyguy.com/)  
    ReplyGuy finds the perfect conversations to mention your product and drafts suggested replies.
+
+---
+
+### 📋 Directories
+
+- [THERE'S AN AI FOR THAT](https://theresanaiforthat.com/)  
+   There is an ai for that list.
 
 ---
 
