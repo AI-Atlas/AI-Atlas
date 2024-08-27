@@ -132,6 +132,9 @@
 - [Audionotes](https://www.audionotes.app/)  
    Speak or type, Audionotes will transform your notes into searchable clear actionable text notes using AI.
 
+- [NoteGPT](https://notegpt.io/)  
+   NoteGPT - YouTube Video Summarizer, PDF Summary, PPT Summary, Image Summaries, and more. Create PPTs, Mindmaps, and Notes with NoteGPT AI. Improve your learning efficiency by 10x.
+
 ---
 
 ### 🎧 Text to Speech
@@ -308,6 +311,9 @@
 
 - [IconMage](https://www.iconmage.com/)  
    IconMage is an AI icon generator platform that allows you to create custom icons using a variety of styles and options. With IconMage, you can easily create icons for your website, app, or other projects.
+
+- [SVG.IO](https://svg.io/)  
+   Text prompt to SVG in less than 10 seconds.
 
 #### Colors
 
@@ -768,6 +774,9 @@
 
 - [Flux AI](https://github.com/black-forest-labs/flux)  
    The best of FLUX.1, offering state-of-the-art performance image generation with top of the line prompt following, visual quality, image detail and output diversity. We are slowly ramping up our inference compute for FLUX.1 in our API.
+
+- [Deep Live Cam](https://github.com/hacksider/Deep-Live-Cam)  
+   Real time face swap and one-click video deepfake with only a single image.
 
 ---
 
