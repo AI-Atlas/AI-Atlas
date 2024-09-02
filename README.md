@@ -202,6 +202,9 @@
 - [Kolors](https://github.com/Kwai-Kolors/Kolors)  
    Effective Training of Diffusion Model for Photorealistic Text-to-Image Synthesis.
 
+- [Looka](https://looka.com/)  
+   Use Looka's AI-powered platform to design a logo and brand you love.
+
 #### UI & UX
 
 - [Diagram](https://diagram.com/)  
@@ -432,6 +435,9 @@
 
 - [Wegic AI](https://wegic.ai/)  
    Wegic is here to simplify the process of creating your ideal website through natural conversations. Just express your design preferences , adjustments, or tweaks, and Wegic will swiftly understand and cater to your needs. Moreover, Wegic allows you to effortlessly publish your site with a custom domain, making website creation as easy as chatting with a designer friend right beside you.
+
+- [UCRAFT](https://www.ucraft.com/)  
+   Create a website or online store in minutes with the intelligent eCommerce solution, Ucraft Next.
 
 
 #### Code Review
@@ -777,6 +783,9 @@
 
 - [Deep Live Cam](https://github.com/hacksider/Deep-Live-Cam)  
    Real time face swap and one-click video deepfake with only a single image.
+
+- [MetaGPT](https://github.com/geekan/MetaGPT)  
+   Assign different roles to GPTs to form a collaborative entity for complex tasks.
 
 ---
 
