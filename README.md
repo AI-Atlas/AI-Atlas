@@ -155,7 +155,11 @@
    ChatTTS is a text-to-speech model designed specifically for dialogue scenario such as LLM assistant. It supports both English and Chinese languages.
 
 - [Sherpa Onnx](https://github.com/k2-fsa/sherpa-onnx)  
-   Speech-to-text, text-to-speech, and speaker recognition using next-gen Kaldi with onnxruntime without Internet connection.
+   Speech-to-text, text-to-speech, speaker recognition, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, C/C++, Python, Kotlin, C#, Go, NodeJS, Java, Swift, Dart, JavaScript, Flutter, Object Pascal, Lazarus, Rust.
+   
+
+- [Bark](https://github.com/suno-ai/bark)
+   Bark can generate highly realistic, multilingual speech as well as other audio - including music, background noise and simple sound effects.
 
 ---
 ### 🎙️ Audio Generation
@@ -787,6 +791,9 @@
 - [MetaGPT](https://github.com/geekan/MetaGPT)  
    Assign different roles to GPTs to form a collaborative entity for complex tasks.
 
+- [Inference](https://github.com/xorbitsai/inference)
+   Xorbits Inference(Xinference) is a powerful and versatile library designed to serve language, speech recognition, and multimodal models.
+
 ---
 
 ### 📒 Libraries
@@ -883,6 +890,9 @@
 
 - [Gumloop](https://www.gumloop.com/)  
    Drag, drop, and deploy custom tools your business needs. Automate any workflow with AI. No AI expertise needed.
+
+- [Unstract](https://unstract.com/)
+   No-code platform to eliminate manual processes involving unstructured data and document using the power of LLMs.
 
 ---
 
