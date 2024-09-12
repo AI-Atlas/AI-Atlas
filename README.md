@@ -474,6 +474,9 @@
 - [Interview with AI](https://interviewwith.ai/)  
    Create a personalized interview preparation roadmap for the job description you pasted, see what you need to learn, solve quizzes, practice with AI like an actual online interview, and get a feedback at the end.
 
+- [Huntr](https://huntr.co/)  
+   Huntr helps you create tailored resumes and cover letters fast with AI, fill out application forms in one click, and automatically organize your job search.
+
 ---
 
 ### 📊 Data & Monitoring
@@ -793,6 +796,9 @@
 
 - [Inference](https://github.com/xorbitsai/inference)
    Xorbits Inference(Xinference) is a powerful and versatile library designed to serve language, speech recognition, and multimodal models.
+
+- [AI Scientist](https://github.com/SakanaAI/AI-Scientist)  
+   The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery. 🧑‍🔬
 
 ---
 
