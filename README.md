@@ -209,6 +209,9 @@
 - [Looka](https://looka.com/)  
    Use Looka's AI-powered platform to design a logo and brand you love.
 
+- [Flux AI](https://github.com/black-forest-labs/flux)  
+   The best of FLUX.1, offering state-of-the-art performance image generation with top of the line prompt following, visual quality, image detail and output diversity. We are slowly ramping up our inference compute for FLUX.1 in our API.
+
 #### UI & UX
 
 - [Diagram](https://diagram.com/)  
@@ -308,6 +311,9 @@
 - [Unique3D](https://github.com/AiuniAI/Unique3D)  
    Official implementation of Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single Image.
 
+- [3D AI Studio](https://www.3daistudio.com/)
+   Generate 3D models, animations and textures in seconds. Drastically Reduce Time & Expense on 3D Models!
+
 #### Icon
 
 - [Magician](https://magician.design/)  
@@ -401,6 +407,9 @@
 
 - [amplication](https://amplication.com/)   
    Build new services, extend existing applications or modernize legacy systems with Amplication AI. Go from idea to production in minutes, with code that is built to scale.
+
+- [Tabine](https://www.tabnine.com/)  
+   Tabnine’s AI code assistant streamlines code generation and automates mundane tasks so developers can spend more time on the work they love.
 
 #### Site & App Builder
 
@@ -785,9 +794,6 @@
 - [torchchat](https://github.com/pytorch/torchchat)  
    torchchat is a small codebase showcasing the ability to run large language models (LLMs) seamlessly. With torchchat, you can run LLMs using Python, within your own (C/C++) application (desktop or server) and on iOS and Android.
 
-- [Flux AI](https://github.com/black-forest-labs/flux)  
-   The best of FLUX.1, offering state-of-the-art performance image generation with top of the line prompt following, visual quality, image detail and output diversity. We are slowly ramping up our inference compute for FLUX.1 in our API.
-
 - [Deep Live Cam](https://github.com/hacksider/Deep-Live-Cam)  
    Real time face swap and one-click video deepfake with only a single image.
 
@@ -799,6 +805,9 @@
 
 - [AI Scientist](https://github.com/SakanaAI/AI-Scientist)  
    The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery. 🧑‍🔬
+
+- [Agent Zero](https://github.com/frdel/agent-zero)  
+   Agent Zero is not pre-programmed for specific tasks (but can be). It is meant to be a general-purpose personal assistant. Give it a task, and it will gather information, execute commands and code, cooperate with other agent instances, and do its best to accomplish it.
 
 ---
 
