@@ -809,6 +809,18 @@
 - [Agent Zero](https://github.com/frdel/agent-zero)  
    Agent Zero is not pre-programmed for specific tasks (but can be). It is meant to be a general-purpose personal assistant. Give it a task, and it will gather information, execute commands and code, cooperate with other agent instances, and do its best to accomplish it.
 
+- [Quivr](https://github.com/QuivrHQ/quivr)  
+   Open-source RAG Framework for building GenAI Second Brains 🧠 Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...) & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq that you can share with users ! Efficient retrieval augmented generation framework.
+
+- [VILA](https://github.com/NVlabs/VILA)  
+   VILA - a multi-image visual language model with training, inference and evaluation recipe, deployable from cloud to edge (Jetson Orin and laptops) 
+
+- [roop](https://github.com/s0md3v/roop)  
+   Take a video and replace the face in it with a face of your choice. You only need one image of the desired face. No dataset, no training.
+
+- [LLM.c](https://github.com/karpathy/llm.c)  
+   LLM training in simple, raw C/CUDA.
+
 ---
 
 ### 📒 Libraries
@@ -849,12 +861,22 @@
 - [Mem0](https://github.com/mem0ai/mem0)  
    Mem0 provides an intelligent, adaptive memory layer for Large Language Models (LLMs), enhancing personalized AI experiences by retaining and utilizing contextual information across diverse applications.
 
+- [Haystack](https://github.com/deepset-ai/haystack)  
+   Haystack is an end-to-end LLM framework that allows you to build applications powered by LLMs, Transformer models, vector search and more. Whether you want to perform retrieval-augmented generation (RAG), document search, question answering or answer generation, Haystack can orchestrate state-of-the-art embedding models and LLMs into pipelines to build end-to-end NLP applications and solve your use case.
+
+- [LitServe](https://github.com/Lightning-AI/LitServe)  
+   LitServe is an easy-to-use, flexible serving engine for AI models built on FastAPI. It augments FastAPI with features like batching, streaming, and GPU autoscaling eliminate the need to rebuild a FastAPI server per model.
+
 ---
 
 ### 🛟 Hardware & Cloud
 
 - [RunPod](https://www.runpod.io/)  
    Globally distributed GPU cloud built for production. Develop, train, and scale AI applications.
+
+- [Lightning](https://lightning.ai/)  
+   Code together. Prototype. Train. Deploy. Host AI web apps. From your browser - with zero setup.
+   Lightning AI introduces a paradigm shift to AI development. Studio integrates your favorite ML tools into a single cohesive experience. It also eliminates the environment discrepancy between local code which runs on the cloud. This allows for trivial multi-node, scalable AI web apps, endpoints and more.
 
 ---
 
@@ -908,6 +930,9 @@
 
 - [Unstract](https://unstract.com/)
    No-code platform to eliminate manual processes involving unstructured data and document using the power of LLMs.
+
+- [Trieve](https://trieve.ai/)  
+   All-in-one solution for building search, discovery, and RAG combining leading search language models + tools for tuning quality.
 
 ---
 
