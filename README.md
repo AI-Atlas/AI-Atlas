@@ -91,6 +91,9 @@
 - [InstructLab](https://instructlab.ai/)
    A new community-based approach to build truly open-source LLMs. [Github page](https://github.com/instructlab/instructlab)
 
+- [Verbi](https://github.com/PromtEngineer/Verbi)  
+   A modular voice assistant application for experimenting with state-of-the-art transcription, response generation, and text-to-speech models. Supports OpenAI, Groq, Elevanlabs, CartesiaAI, and Deepgram APIs, plus local models via Ollama. Ideal for research and development in voice technology.
+
 ---
 
 ### 🧑‍🏫 Learning
@@ -296,6 +299,9 @@
 
 - [Typeframes](https://www.typeframes.com/)  
    Create videos for YouTube, Instagram, and TikTok with simple text prompts. Our AI-powered tool transforms text into stunning videos in minutes! Boost engagement, save money, and save time with Typeframes.
+
+- [Sapiens](https://github.com/facebookresearch/sapiens)
+   Sapiens offers a comprehensive suite for human-centric vision tasks (e.g., 2D pose, part segmentation, depth, normal, etc.). The model family is pretrained on 300 million in-the-wild human images and shows excellent generalization to unconstrained conditions. These models are also designed for extracting high-resolution features, having been natively trained at a 1024 x 1024 image resolution with a 16-pixel patch size.
 
 #### Modeling & 3D
 
@@ -639,6 +645,9 @@
 - [FinRobot](https://github.com/AI4Finance-Foundation/FinRobot)  
    An Open-Source AI Agent Platform for Financial Applications using Large Language Models.
 
+- [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT)  
+   FinGPT: Open-Source Financial Large Language Models! Revolutionize 🔥 release the trained model on HuggingFace.
+
 ---
 
 ### 🔬 Research & Academic
@@ -867,6 +876,9 @@
 - [LitServe](https://github.com/Lightning-AI/LitServe)  
    LitServe is an easy-to-use, flexible serving engine for AI models built on FastAPI. It augments FastAPI with features like batching, streaming, and GPU autoscaling eliminate the need to rebuild a FastAPI server per model.
 
+- [Dify](https://dify.ai/)  
+   Dify is an open-source LLM app development platform. Orchestrate LLM apps from agents to complex AI workflows, with an RAG engine. More production-ready than LangChain.
+
 ---
 
 ### 🛟 Hardware & Cloud
@@ -933,6 +945,9 @@
 
 - [Trieve](https://trieve.ai/)  
    All-in-one solution for building search, discovery, and RAG combining leading search language models + tools for tuning quality.
+
+- [FireCrawl](https://github.com/mendableai/firecrawl)  
+   Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 
 ---
 
