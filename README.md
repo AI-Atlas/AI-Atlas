@@ -614,6 +614,9 @@
 - [Spot AI](https://www.spot.ai/)  
    Spot AI builds a modern AI camera system to create safer workplaces and smarter operations for every business.
 
+- [Placer.ai](https://www.placer.ai/)  
+   Placer.ai is the most advanced foot traffic analytics platform allowing anyone with a stake in the physical world to instantly generate insights into any property for a deeper understanding of the factors that drive success. 
+
 ---
 
 ### 💸 Crypto
@@ -830,6 +833,9 @@
 - [LLM.c](https://github.com/karpathy/llm.c)  
    LLM training in simple, raw C/CUDA.
 
+- [HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos)  
+   HivisionIDPhotos: a lightweight and efficient AI ID photos tools.
+
 ---
 
 ### 📒 Libraries
@@ -949,6 +955,9 @@
 - [FireCrawl](https://github.com/mendableai/firecrawl)  
    Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 
+- [kotaemon](https://cinnamon.github.io/kotaemon/)  
+   An open-source clean & customizable RAG UI for chatting with your documents. Built with both end users and developers in mind.
+
 ---
 
 ### 🧰 Others
@@ -1054,6 +1063,9 @@
 
 - [Reply Guy](https://replyguy.com/)  
    ReplyGuy finds the perfect conversations to mention your product and drafts suggested replies.
+
+- [Composio](https://docs.composio.dev/introduction/intro/overview)  
+   Empower your AI agents with Composio - a platform for managing and integrating tools with LLMs & AI agents using Function Calling.
 
 ---
 
