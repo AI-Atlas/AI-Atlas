@@ -244,6 +244,9 @@
 - [Userology](https://www.userology.co/)  
    Userology.co uses conversational AI to moderate usability testing sessions, helping you 10x the quality of insights much faster without human intervention. 
 
+- [Thumb Zone](https://www.thumbzone.ai/)  
+   Eliminate the survival bias in your design decisions by looking into user persona, qualitative data, and user interaction.
+
 #### Viedo & Multi-Media
 
 - [Runway](https://runwayml.com/)  
@@ -416,6 +419,9 @@
 
 - [Tabine](https://www.tabnine.com/)  
    Tabnine’s AI code assistant streamlines code generation and automates mundane tasks so developers can spend more time on the work they love.
+
+- [Melty](https://github.com/meltylabs/melty)  
+   Melty is the first AI code editor that's aware of what you're doing from the terminal to GitHub, and collaborates with you to write production-ready code.
 
 #### Site & App Builder
 
@@ -884,6 +890,9 @@
 
 - [Dify](https://dify.ai/)  
    Dify is an open-source LLM app development platform. Orchestrate LLM apps from agents to complex AI workflows, with an RAG engine. More production-ready than LangChain.
+
+- [AnythingLLM](https://anythingllm.com/)  
+   The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.
 
 ---
 
