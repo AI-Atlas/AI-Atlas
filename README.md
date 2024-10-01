@@ -423,6 +423,9 @@
 - [Melty](https://github.com/meltylabs/melty)  
    Melty is the first AI code editor that's aware of what you're doing from the terminal to GitHub, and collaborates with you to write production-ready code.
 
+- [Continue](https://docs.continue.dev/)  
+   Continue is the leading open-source AI code assistant inside of VS Code and JetBrains.
+
 #### Site & App Builder
 
 - [V0.dev](https://v0.dev/)  
@@ -656,6 +659,9 @@
 
 - [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT)  
    FinGPT: Open-Source Financial Large Language Models! Revolutionize 🔥 release the trained model on HuggingFace.
+
+- [OpenBB](https://openbb.co/)  
+   OpenBB provides innovative, customizable, AI-powered solutions for analysts, quants, and other finance professionals. With a commitment to open-source development and user-centric design, OpenBB is redefining the status quo of investment research.
 
 ---
 
