@@ -25,6 +25,7 @@
 - [📄 Resume & Career](#-resume--career)
 - [📊 Data & Monitoring](#-data--monitoring)
 - [👔 Business & Marketing](#-business--marketing)
+- [📱 Social Media Tools](#-social-media-tools)
 - [💸 Crypto](#-crypto)
 - [🔍 OCR](#-ocr)
 - [🧮 Financial & Accounting](#%F0%9F%A7%AE-financial--accounting)
@@ -36,6 +37,7 @@
 - [📒 Libraries](#-libraries)
 - [🛟 Hardware & Cloud](#%F0%9F%9B%9F-hardware--cloud)
 - [🎮 Game & Entertainment](#-game--entertainment)
+- [🚙 Automations & Agents](#-automations--agents)
 - [⚙️ AI Tools](#-ai-tools)
 - [🧰 Others](#%F0%9F%A7%B0-others)
 - [📋 Directories](#-directories)
@@ -163,6 +165,9 @@
 
 - [Bark](https://github.com/suno-ai/bark)
    Bark can generate highly realistic, multilingual speech as well as other audio - including music, background noise and simple sound effects.
+
+- [Fish Speech](https://speech.fish.audio/)  
+   Brand new TTS solution.
 
 ---
 ### 🎙️ Audio Generation
@@ -626,6 +631,14 @@
 - [Placer.ai](https://www.placer.ai/)  
    Placer.ai is the most advanced foot traffic analytics platform allowing anyone with a stake in the physical world to instantly generate insights into any property for a deeper understanding of the factors that drive success. 
 
+
+---
+
+### 📱 Social Media Tools
+
+- [Postiz](https://postiz.com/)  
+   Postiz offers everything you need to manage your social media posts, build an audience, capture leads, and grow your business.
+
 ---
 
 ### 💸 Crypto
@@ -791,9 +804,6 @@
 - [Cake](https://github.com/evilsocket/cake)  
    Distributed LLM inference for mobile, desktop and server.
 
-- [Langflow](https://github.com/langflow-ai/langflow)  
-   Langflow is a visual framework for building multi-agent and RAG applications. It's open-source, Python-powered, fully customizable, model and vector store agnostic.
-
 - [Neo4J Graph](https://github.com/neo4j-labs/llm-graph-builder)  
    Neo4j graph construction from unstructured data using LLMs.
 
@@ -847,6 +857,12 @@
 
 - [HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos)  
    HivisionIDPhotos: a lightweight and efficient AI ID photos tools.
+
+- [vllm](https://github.com/vllm-project/vllm)  
+   A high-throughput and memory-efficient inference and serving engine for LLMs.
+
+- [AWS AI Stack](https://github.com/serverless/aws-ai-stack)
+   AWS AI Stack – A ready-to-use, full-stack boilerplate project for building serverless AI applications on AWS.
 
 ---
 
@@ -920,6 +936,13 @@
 
 ---
 
+### 🚙 Automations & Agents
+
+- [Langflow](https://www.langflow.org/)  
+   Langflow is a visual framework for building multi-agent and RAG applications. It's open-source, Python-powered, fully customizable, model and vector store agnostic.
+
+---
+
 ### ⚙️ AI Tools
 
 - [Google AI Studio](https://aistudio.google.com/app/prompts/new_chat)  
@@ -972,6 +995,9 @@
 
 - [kotaemon](https://cinnamon.github.io/kotaemon/)  
    An open-source clean & customizable RAG UI for chatting with your documents. Built with both end users and developers in mind.
+
+- [Taipy](https://taipy.io/)  
+   From simple pilots to production-ready web applications in no time. No more compromise on performance, customization, and scalability.
 
 ---
 
