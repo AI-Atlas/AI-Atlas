@@ -22,6 +22,7 @@
     - [Code Assistance](#code-assistance)
     - [Site & App Builder](#site--app-builder)
     - [Code Review](#code-review)
+    - [Code editor](#code-editor)
 - [📄 Resume & Career](#-resume--career)
 - [📊 Data & Monitoring](#-data--monitoring)
 - [👔 Business & Marketing](#-business--marketing)
@@ -34,6 +35,7 @@
 - [🗜️ Hardware](#-hardware)
 - [🧑‍🏫 Learning](#%E2%80%8D-learning)
 - [🔮 Open-source & Self-hosted](#-open-source--self-hosted)
+- [📦 Models & LLMs](#-models--llms)
 - [📒 Libraries](#-libraries)
 - [🛟 Hardware & Cloud](#%F0%9F%9B%9F-hardware--cloud)
 - [🎮 Game & Entertainment](#-game--entertainment)
@@ -487,6 +489,12 @@
 - [SWE Agent](https://github.com/princeton-nlp/SWE-agent)  
    SWE-agent turns LMs (e.g. GPT-4) into software engineering agents that can fix bugs and issues in real GitHub repositories.
 
+
+#### Code editor
+
+- [Curser](https://www.cursor.com/)  
+   Built to make you extraordinarily productive, Cursor is the best way to code with AI.
+
 ---
 
 ### 📄 Resume & Career
@@ -866,6 +874,13 @@
 
 ---
 
+### 📦 Models & LLMs
+
+- [Qwen](https://github.com/QwenLM/Qwen2.5)  
+   Qwen2.5 is the large language model series developed by Qwen team, Alibaba Cloud.
+
+---
+
 ### 📒 Libraries
 
 - [Apple CoreNet](https://github.com/apple/corenet)  
@@ -915,6 +930,9 @@
 
 - [AnythingLLM](https://anythingllm.com/)  
    The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.
+
+- [All Hands](https://www.all-hands.dev/)  
+   Use AI to tackle the toil in your backlog, so you can focus on what matters: hard problems, creative challenges, and over-engineering your dotfiles.
 
 ---
 
@@ -998,6 +1016,12 @@
 
 - [Taipy](https://taipy.io/)  
    From simple pilots to production-ready web applications in no time. No more compromise on performance, customization, and scalability.
+
+- [unriddle](https://www.unriddle.ai/)  
+   Quickly find info in research papers, simplify complex topics, write with AI and keep everything organized. Save four hours on your next paper.
+
+- [Storm](https://storm.genie.stanford.edu/)  
+   STORM is a research prototype for automating the knowledge curation process. We now support human-in-the-loop!
 
 ---
 
