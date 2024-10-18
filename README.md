@@ -42,7 +42,7 @@
 - [🚙 Automations & Agents](#-automations--agents)
 - [⚙️ AI Tools](#-ai-tools)
 - [🧰 Others](#%F0%9F%A7%B0-others)
-- [📋 Directories](#-directories)
+- [📋 Directories & Communities](#-directories--communities)
 
 <!-- /TOC -->
 
@@ -170,6 +170,9 @@
 
 - [Fish Speech](https://speech.fish.audio/)  
    Brand new TTS solution.
+
+- [Whisper Web](https://github.com/xenova/whisper-web)  
+   ML-powered speech recognition directly in your browser! [Website](https://huggingface.co/spaces/Xenova/whisper-web)
 
 ---
 ### 🎙️ Audio Generation
@@ -435,6 +438,9 @@
 
 - [Continue](https://docs.continue.dev/)  
    Continue is the leading open-source AI code assistant inside of VS Code and JetBrains.
+
+- [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot)  
+   GPT Pilot aims to research how much LLMs can be utilized to generate fully working, production-ready apps while the developer oversees the implementation.
 
 #### Site & App Builder
 
@@ -940,6 +946,9 @@
 - [Llama Stack](https://github.com/meta-llama/llama-stack)  
    The Llama Stack defines and standardizes the building blocks needed to bring generative AI applications to market. These blocks span the entire development lifecycle: from model training and fine-tuning, through product evaluation, to building and running AI agents in production.
 
+- [exo](https://github.com/exo-explore/exo)  
+   Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
+
 ---
 
 ### 🛟 Hardware & Cloud
@@ -1032,6 +1041,12 @@
 - [crawl4ai](https://github.com/unclecode/crawl4ai)  
    Crawl4AI simplifies asynchronous web crawling and data extraction, making it accessible for large language models (LLMs) and AI applications.
 
+- [screenpipe](https://screenpi.pe)  
+   screenpipe records your screens and mics 24/7 safely on your computer, stores it locally, and connects it to AI.
+
+- [FlowiseAI](https://flowiseai.com)  
+   Open source low-code tool for developers to build customized LLM orchestration flow & AI agents.
+
 ---
 
 ### 🧰 Others
@@ -1059,9 +1074,6 @@
 
 - [FIXIE](https://fixie.ai/)  
    Human communication is messy. We interrupt, talk over each other, and don't always wait our turn. But this rapid, messy exchange of ideas serves as the backbone of human progress. LLMs are revolutionary, but their potential impact is currently limited to situations where text-based chat is sufficient.
-
-- [Hugging Face](https://huggingface.co/)  
-   The AI community building the future. The platform where the machine learning community collaborates on models, datasets, and applications.
 
 - [hume](https://www.hume.ai/)
    Empathic AI to serve human well-being. With a single API call, interpret emotional expressions and generate empathic responses. Meet the first AI with emotional intelligence.
@@ -1143,10 +1155,13 @@
 
 ---
 
-### 📋 Directories
+### 📋 Directories & Communities
 
 - [THERE'S AN AI FOR THAT](https://theresanaiforthat.com/)  
    There is an ai for that list.
+
+- [Hugging Face](https://huggingface.co/)  
+   The AI community building the future. The platform where the machine learning community collaborates on models, datasets, and applications.
 
 ---
 
