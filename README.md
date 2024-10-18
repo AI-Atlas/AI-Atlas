@@ -313,6 +313,9 @@
 - [Sapiens](https://github.com/facebookresearch/sapiens)
    Sapiens offers a comprehensive suite for human-centric vision tasks (e.g., 2D pose, part segmentation, depth, normal, etc.). The model family is pretrained on 300 million in-the-wild human images and shows excellent generalization to unconstrained conditions. These models are also designed for extracting high-resolution features, having been natively trained at a 1024 x 1024 image resolution with a 16-pixel patch size.
 
+- [Spotter Studio](https://www.spotterstudio.com)  
+   Spotter Studio helps YouTube Creators create more winning videos through an integrated suite of ideation tools.
+
 #### Modeling & 3D
 
 - [Genie](https://lumalabs.ai/genie)  
@@ -934,6 +937,9 @@
 - [All Hands](https://www.all-hands.dev/)  
    Use AI to tackle the toil in your backlog, so you can focus on what matters: hard problems, creative challenges, and over-engineering your dotfiles.
 
+- [Llama Stack](https://github.com/meta-llama/llama-stack)  
+   The Llama Stack defines and standardizes the building blocks needed to bring generative AI applications to market. These blocks span the entire development lifecycle: from model training and fine-tuning, through product evaluation, to building and running AI agents in production.
+
 ---
 
 ### 🛟 Hardware & Cloud
@@ -1022,6 +1028,9 @@
 
 - [Storm](https://storm.genie.stanford.edu/)  
    STORM is a research prototype for automating the knowledge curation process. We now support human-in-the-loop!
+
+- [crawl4ai](https://github.com/unclecode/crawl4ai)  
+   Crawl4AI simplifies asynchronous web crawling and data extraction, making it accessible for large language models (LLMs) and AI applications.
 
 ---
 
