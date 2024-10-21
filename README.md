@@ -648,6 +648,8 @@
 - [Placer.ai](https://www.placer.ai/)  
    Placer.ai is the most advanced foot traffic analytics platform allowing anyone with a stake in the physical world to instantly generate insights into any property for a deeper understanding of the factors that drive success. 
 
+- [neocom](https://www.neocom.ai)  
+   Neocom is to enable companies to understand and delight their customers with Guided Discovery.
 
 ---
 
@@ -949,6 +951,9 @@
 - [exo](https://github.com/exo-explore/exo)  
    Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 
+- [BISHENG](https://github.com/dataelement/bisheng)  
+   BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive features include: GenAI workflow, RAG, Agent, Unified model management, Evaluation, SFT, Dataset Management, Enterprise-level System Management, Observability and more.
+
 ---
 
 ### 🛟 Hardware & Cloud
@@ -1046,6 +1051,9 @@
 
 - [FlowiseAI](https://flowiseai.com)  
    Open source low-code tool for developers to build customized LLM orchestration flow & AI agents.
+
+- [FastGPT](https://tryfastgpt.ai)  
+   A free, open-source, and powerful AI knowledge base platform, offers out-of-the-box data processing, model invocation, RAG retrieval, and visual AI workflows. Easily build complex LLM applications.
 
 ---
 
@@ -1152,6 +1160,9 @@
 
 - [Composio](https://docs.composio.dev/introduction/intro/overview)  
    Empower your AI agents with Composio - a platform for managing and integrating tools with LLMs & AI agents using Function Calling.
+
+- [Prompt Engineering Guide](https://www.promptingguide.ai)  
+   Prompt engineering is a relatively new discipline for developing and optimizing prompts to efficiently use language models (LMs) for a wide variety of applications and research topics. Prompt engineering skills help to better understand the capabilities and limitations of large language models (LLMs).
 
 ---
 
