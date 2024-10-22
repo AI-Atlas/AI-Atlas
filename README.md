@@ -98,6 +98,9 @@
 - [Verbi](https://github.com/PromtEngineer/Verbi)  
    A modular voice assistant application for experimenting with state-of-the-art transcription, response generation, and text-to-speech models. Supports OpenAI, Groq, Elevanlabs, CartesiaAI, and Deepgram APIs, plus local models via Ollama. Ideal for research and development in voice technology.
 
+- [You.com](https://you.com)  
+   Leverage a personal AI search agent & customized recommendations with You.com's AI chatbot. Converse naturally and discover the power of AI. 
+
 ---
 
 ### 🧑‍🏫 Learning
@@ -883,6 +886,9 @@
 - [AWS AI Stack](https://github.com/serverless/aws-ai-stack)
    AWS AI Stack – A ready-to-use, full-stack boilerplate project for building serverless AI applications on AWS.
 
+- [Depth Pro](https://github.com/apple/ml-depth-pro)  
+   Depth Pro: Sharp Monocular Metric Depth in Less Than a Second.
+
 ---
 
 ### 📦 Models & LLMs
@@ -1163,6 +1169,9 @@
 
 - [Prompt Engineering Guide](https://www.promptingguide.ai)  
    Prompt engineering is a relatively new discipline for developing and optimizing prompts to efficiently use language models (LMs) for a wide variety of applications and research topics. Prompt engineering skills help to better understand the capabilities and limitations of large language models (LLMs).
+
+- [LiveKit](https://livekit.io)  
+   Build realtime AI. Instantly transport audio and video between LLMs and your users.
 
 ---
 
