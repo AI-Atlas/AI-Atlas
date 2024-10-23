@@ -1070,6 +1070,9 @@
 - [gptme](https://gptme.org/docs/)  
    gptme is a tiny command-line application that allows you to interact with AI agent equipped with powerful local tools, acting as a copilot for your computer, via the terminal. It can execute python and bash, edit local files, search and browse the web.
 
+- [OpenRouter](https://openrouter.ai)  
+   A unified interface for LLMs. Find the best models & prices for your prompts
+
 ---
 
 ### 🧰 Others
