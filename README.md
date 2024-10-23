@@ -322,6 +322,9 @@
 - [Spotter Studio](https://www.spotterstudio.com)  
    Spotter Studio helps YouTube Creators create more winning videos through an integrated suite of ideation tools.
 
+- [HeyGen](https://www.heygen.com)  
+   Create and translate videos with AI. Produce studio-quality videos in 175 languages without a camera or crew.
+
 #### Modeling & 3D
 
 - [Genie](https://lumalabs.ai/genie)  
@@ -486,6 +489,9 @@
 - [UCRAFT](https://www.ucraft.com/)  
    Create a website or online store in minutes with the intelligent eCommerce solution, Ucraft Next.
 
+- [bolt](https://bolt.new)  
+   Prompt, run, edit, and deploy full-stack web apps.s
+ 
 
 #### Code Review
 
@@ -1060,6 +1066,9 @@
 
 - [FastGPT](https://tryfastgpt.ai)  
    A free, open-source, and powerful AI knowledge base platform, offers out-of-the-box data processing, model invocation, RAG retrieval, and visual AI workflows. Easily build complex LLM applications.
+
+- [gptme](https://gptme.org/docs/)  
+   gptme is a tiny command-line application that allows you to interact with AI agent equipped with powerful local tools, acting as a copilot for your computer, via the terminal. It can execute python and bash, edit local files, search and browse the web.
 
 ---
 
