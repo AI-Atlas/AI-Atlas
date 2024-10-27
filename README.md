@@ -660,6 +660,9 @@
 - [neocom](https://www.neocom.ai)  
    Neocom is to enable companies to understand and delight their customers with Guided Discovery.
 
+- [ChatBase](https://www.chatbase.co)  
+   Build a custom GPT, embed it on your website and let it handle customer support, lead generation, engage with your users, and more.
+
 ---
 
 ### 📱 Social Media Tools
@@ -977,6 +980,9 @@
    Code together. Prototype. Train. Deploy. Host AI web apps. From your browser - with zero setup.
    Lightning AI introduces a paradigm shift to AI development. Studio integrates your favorite ML tools into a single cohesive experience. It also eliminates the environment discrepancy between local code which runs on the cloud. This allows for trivial multi-node, scalable AI web apps, endpoints and more.
 
+- [Tasking AI](https://www.tasking.ai)  
+   The developer-friendly cloud platform for building and running LLM agents for AI-native applications.
+
 ---
 
 ### 🎮 Game & Entertainment
@@ -1071,7 +1077,10 @@
    gptme is a tiny command-line application that allows you to interact with AI agent equipped with powerful local tools, acting as a copilot for your computer, via the terminal. It can execute python and bash, edit local files, search and browse the web.
 
 - [OpenRouter](https://openrouter.ai)  
-   A unified interface for LLMs. Find the best models & prices for your prompts
+   A unified interface for LLMs. Find the best models & prices for your prompts.
+
+- [ultralytics](https://docs.ultralytics.com)  
+   YOLO11 is built on cutting-edge advancements in deep learning and computer vision, offering unparalleled performance in terms of speed and accuracy. Its streamlined design makes it suitable for various applications and easily adaptable to different hardware platforms, from edge devices to cloud APIs.
 
 ---
 
