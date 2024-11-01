@@ -898,12 +898,18 @@
 - [Depth Pro](https://github.com/apple/ml-depth-pro)  
    Depth Pro: Sharp Monocular Metric Depth in Less Than a Second.
 
+- [MaxKB](https://github.com/1Panel-dev/MaxKB)  
+   MaxKB = Max Knowledge Base，It is an open source knowledge base question and answer system based on the LLM large language model. It is widely used in enterprise internal knowledge bases, customer services, academic research and education and other scenarios.
+
 ---
 
 ### 📦 Models & LLMs
 
 - [Qwen](https://github.com/QwenLM/Qwen2.5)  
    Qwen2.5 is the large language model series developed by Qwen team, Alibaba Cloud.
+
+- [CLIP](https://github.com/openai/CLIP)  
+   CLIP (Contrastive Language-Image Pre-Training) is a neural network trained on a variety of (image, text) pairs. It can be instructed in natural language to predict the most relevant text snippet, given an image, without directly optimizing for the task, similarly to the zero-shot capabilities of GPT-2 and 3.
 
 ---
 
@@ -968,6 +974,12 @@
 
 - [BISHENG](https://github.com/dataelement/bisheng)  
    BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive features include: GenAI workflow, RAG, Agent, Unified model management, Evaluation, SFT, Dataset Management, Enterprise-level System Management, Observability and more.
+
+- [RAGFlow](https://ragflow.io)  
+   RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding. When integrated with LLMs, it is capable of providing truthful question-answering capabilities, backed by well-founded citations from various complex formatted data.
+
+- [MindStudio](https://www.mindstudio.ai)  
+   Rapidly build custom AI applications and automations — no coding required. Easily mix and match the latest models from OpenAI, Anthropic, Google, Mistral, Meta, and more.
 
 ---
 
