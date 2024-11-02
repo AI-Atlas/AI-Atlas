@@ -981,6 +981,9 @@
 - [MindStudio](https://www.mindstudio.ai)  
    Rapidly build custom AI applications and automations — no coding required. Easily mix and match the latest models from OpenAI, Anthropic, Google, Mistral, Meta, and more.
 
+- [gradio](https://www.gradio.app)  
+   Gradio is the fastest way to demo your machine learning model with a friendly web interface so that anyone can use it, anywhere!
+
 ---
 
 ### 🛟 Hardware & Cloud
@@ -1093,6 +1096,9 @@
 
 - [ultralytics](https://docs.ultralytics.com)  
    YOLO11 is built on cutting-edge advancements in deep learning and computer vision, offering unparalleled performance in terms of speed and accuracy. Its streamlined design makes it suitable for various applications and easily adaptable to different hardware platforms, from edge devices to cloud APIs.
+
+- [Deep Live Cam](https://github.com/hacksider/Deep-Live-Cam)  
+   Real-time face swap and video deepfake with a single click and only a single image.
 
 ---
 
