@@ -228,6 +228,9 @@
 - [Flux AI](https://github.com/black-forest-labs/flux)  
    The best of FLUX.1, offering state-of-the-art performance image generation with top of the line prompt following, visual quality, image detail and output diversity. We are slowly ramping up our inference compute for FLUX.1 in our API.
 
+- [Krea](https://www.krea.ai/home)  
+   delightful creative tools with AI inside.
+
 #### UI & UX
 
 - [Diagram](https://diagram.com/)  
@@ -688,6 +691,9 @@
 - [Surya](https://github.com/VikParuchuri/surya)  
    Open-source OCR, layout analysis, reading order, line detection in 90+ languages.
 
+- [DataLab](https://www.datalab.to)  
+   We train AI models for OCR, layout analysis, PDF to markdown, and more. They're state of the art, easy to use, and open source.
+
 ---
 
 ### 🧮 Financial & Accounting
@@ -984,6 +990,9 @@
 - [gradio](https://www.gradio.app)  
    Gradio is the fastest way to demo your machine learning model with a friendly web interface so that anyone can use it, anywhere!
 
+- [Swarm](https://github.com/openai/swarm)  
+   Educational framework exploring ergonomic, lightweight multi-agent orchestration.
+
 ---
 
 ### 🛟 Hardware & Cloud
@@ -1004,6 +1013,9 @@
 
 - [Campfire](https://campfire.to/)  
    Our first product is a game with LLM-based AI agents at the heart of the gameplay experience along with the tools to realize these worlds.
+
+- [DIAMOND](https://diamond-wm.github.io)  
+   DIAMOND 💎 (DIffusion As a Model Of eNvironment Dreams) is a reinforcement learning agent trained entirely in a diffusion world model.
 
 ---
 
