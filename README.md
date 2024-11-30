@@ -231,6 +231,9 @@
 - [Krea](https://www.krea.ai/home)  
    delightful creative tools with AI inside.
 
+- [LetsEnhance](https://letsenhance.io)  
+   Get clear, high-res images with AI.
+
 #### UI & UX
 
 - [Diagram](https://diagram.com/)  
@@ -907,6 +910,12 @@
 - [MaxKB](https://github.com/1Panel-dev/MaxKB)  
    MaxKB = Max Knowledge Base，It is an open source knowledge base question and answer system based on the LLM large language model. It is widely used in enterprise internal knowledge bases, customer services, academic research and education and other scenarios.
 
+- [LightRAG](https://github.com/HKUDS/LightRAG)  
+   Simple and Fast Retrieval-Augmented Generation.
+
+- [WhisperKit](https://github.com/argmaxinc/WhisperKit)  
+   WhisperKit is a Swift package that integrates OpenAI's popular Whisper speech recognition model with Apple's CoreML framework for efficient, local inference on Apple devices.
+
 ---
 
 ### 📦 Models & LLMs
@@ -1006,6 +1015,9 @@
 
 - [Tasking AI](https://www.tasking.ai)  
    The developer-friendly cloud platform for building and running LLM agents for AI-native applications.
+
+- [golem](https://www.golem.network)  
+   Golem Network is an open-source and decentralized platform where everyone can use and share each other's computing power without relying on centralized entities like cloud computing corporations.
 
 ---
 
