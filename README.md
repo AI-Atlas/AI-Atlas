@@ -186,6 +186,9 @@
 - [Artist Voice Over](https://artlist.io/voice-over)
    The AI voice generator for video creators. Find your voice with the ultimate text-to-speech generator, featuring top voice actors exclusive to Artlist.
 
+- [ElevenLabs](https://elevenlabs.io)  
+   The ElevenLabs voice generator can deliver high-quality, human-like speech in 32 languages. Perfect for audiobooks, video voiceovers, commercials, and more.
+
 ---
 
 ### 🪄 Design & Creativity
@@ -265,6 +268,9 @@
 
 - [Thumb Zone](https://www.thumbzone.ai/)  
    Eliminate the survival bias in your design decisions by looking into user persona, qualitative data, and user interaction.
+
+- [Open Canvas](https://opencanvas.langchain.com/)
+   Open Canvas Chat UX by LangChain.
 
 #### Viedo & Multi-Media
 
@@ -925,6 +931,15 @@
 
 - [CLIP](https://github.com/openai/CLIP)  
    CLIP (Contrastive Language-Image Pre-Training) is a neural network trained on a variety of (image, text) pairs. It can be instructed in natural language to predict the most relevant text snippet, given an image, without directly optimizing for the task, similarly to the zero-shot capabilities of GPT-2 and 3.
+
+- [Goose AI](https://goose.ai)  
+   GooseAI is a fully managed NLP-as-a-Service, delivered via API. It is comparable to OpenAI in this regard. And even more, it is fully compatible with OpenAI's completion API!
+
+- [vLLM](https://docs.vllm.ai/en/latest/)  
+   vLLM is a fast and easy-to-use library for LLM inference and serving.
+
+- [IREE](https://iree.dev)  
+   IREE (Intermediate Representation Execution Environment1) is an MLIR-based end-to-end compiler and runtime that lowers Machine Learning (ML) models to a unified IR that scales up to meet the needs of the datacenter and down to satisfy the constraints and special considerations of mobile and edge deployments.
 
 ---
 
