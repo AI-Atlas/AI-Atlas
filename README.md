@@ -553,6 +553,9 @@
 - [Huntr](https://huntr.co/)  
    Huntr helps you create tailored resumes and cover letters fast with AI, fill out application forms in one click, and automatically organize your job search.
 
+- [bugfree.ai](https://bugfree.ai/)  
+   An advanced AI-powered platform designed to practice and prepare for system design and behavioral interviews, by combining a vast question library, detailed feedback, and interactive AI-powered mock interviews.
+
 ---
 
 ### 📊 Data & Monitoring
