@@ -202,6 +202,9 @@
 - [stability.ai](https://stability.ai/)  
    Stability AI is the world’s leading open source generative AI company. We deliver breakthrough, open-access AI models with minimal resource requirements in imaging, language, code and audio.
 
+- [Graphic.so](https://graphic.so)  
+   Graphic.so is a multi-modal AI playground to build your AI apps and automations 10x faster with a natural language interface.
+
 #### Image Generator
 
 - [Midjourney](https://www.midjourney.com/)  
@@ -953,6 +956,9 @@
 - [IREE](https://iree.dev)  
    IREE (Intermediate Representation Execution Environment1) is an MLIR-based end-to-end compiler and runtime that lowers Machine Learning (ML) models to a unified IR that scales up to meet the needs of the datacenter and down to satisfy the constraints and special considerations of mobile and edge deployments.
 
+- [Meta Lingua](https://github.com/facebookresearch/lingua)  
+   Meta Lingua: a lean, efficient, and easy-to-hack codebase to research LLMs.
+
 ---
 
 ### 📒 Libraries
@@ -1153,6 +1159,9 @@
 
 - [Deep Live Cam](https://github.com/hacksider/Deep-Live-Cam)  
    Real-time face swap and video deepfake with a single click and only a single image.
+
+- [mistral.rs](https://github.com/EricLBuehler/mistral.rs)  
+   Blazingly fast LLM inference.
 
 ---
 
