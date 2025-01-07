@@ -170,7 +170,6 @@
 - [Sherpa Onnx](https://github.com/k2-fsa/sherpa-onnx)  
    Speech-to-text, text-to-speech, speaker recognition, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, C/C++, Python, Kotlin, C#, Go, NodeJS, Java, Swift, Dart, JavaScript, Flutter, Object Pascal, Lazarus, Rust.
    
-
 - [Bark](https://github.com/suno-ai/bark)
    Bark can generate highly realistic, multilingual speech as well as other audio - including music, background noise and simple sound effects.
 
@@ -179,6 +178,9 @@
 
 - [Whisper Web](https://github.com/xenova/whisper-web)  
    ML-powered speech recognition directly in your browser! [Website](https://huggingface.co/spaces/Xenova/whisper-web)
+
+- [edge-tts](https://github.com/rany2/edge-tts)  
+   Use Microsoft Edge's online text-to-speech service from Python WITHOUT needing Microsoft Edge or Windows or an API key.
 
 ---
 ### 🎙️ Audio Generation
@@ -1038,6 +1040,9 @@
 - [bitnet.app](https://github.com/microsoft/BitNet)  
    bitnet.cpp is the official inference framework for 1-bit LLMs (e.g., BitNet b1.58). It offers a suite of optimized kernels, that support fast and lossless inference of 1.58-bit models on CPU (with NPU and GPU support coming next).
 
+- [Deepface](https://github.com/serengil/deepface)  
+   A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python.
+
 ---
 
 ### 🛟 Hardware & Cloud
@@ -1162,6 +1167,9 @@
 
 - [mistral.rs](https://github.com/EricLBuehler/mistral.rs)  
    Blazingly fast LLM inference.
+
+- [Hypermode](https://hypermode.com/home)  
+   Write functions. Add models. Connect data. We instantly make it accurate, secure, sandboxed, and available as a scalable API. 
 
 ---
 
