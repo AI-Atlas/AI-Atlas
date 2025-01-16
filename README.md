@@ -939,6 +939,9 @@
 - [WhisperKit](https://github.com/argmaxinc/WhisperKit)  
    WhisperKit is a Swift package that integrates OpenAI's popular Whisper speech recognition model with Apple's CoreML framework for efficient, local inference on Apple devices.
 
+- [PetSpotR](https://github.com/gh-productivity-workshops/PetSpotR)  
+   Demo application that showcases a modern, cloud-native application with Codespaces and Copilot.
+
 ---
 
 ### 📦 Models & LLMs
@@ -1170,6 +1173,12 @@
 
 - [Hypermode](https://hypermode.com/home)  
    Write functions. Add models. Connect data. We instantly make it accurate, secure, sandboxed, and available as a scalable API. 
+
+- [Diflowy](https://diflowy.greenerai.top)  
+   You can explore Dify Workflows by categories. Then you can Live Preview and Import them to Dify in Diflowy.
+
+- [Relevance AI](https://relevanceai.com)  
+   From AI tools to AI agents to multi-agent teams, anyone can build and manage an entire AI workforce in one powerful visual platform.
 
 ---
 
