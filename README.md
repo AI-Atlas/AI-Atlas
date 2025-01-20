@@ -5,7 +5,6 @@
 <!-- TOC depthfrom:3 -->
 
 - [🤖 Assistance & Chat](#-assistance--chat)
-- [🧑‍🏫 Learning](#%E2%80%8D-learning)
 - [🎯 Productivity](#-productivity)
 - [🎧 Text to Speech](#-text-to-speech)
 - [🎙️ Audio Generation](#-audio-generation)
@@ -103,13 +102,6 @@
 
 ---
 
-### 🧑‍🏫 Learning
-
-- [Speak](https://www.speak.com/)  
-   Talk out loud, get instant feedback, and become fluent with the world’s most advanced AI language tutor.
-
----
-
 ### 🎯 Productivity
 
 - [PopAi](https://www.popai.pro/)  
@@ -193,6 +185,9 @@
 
 - [ElevenLabs](https://elevenlabs.io)  
    The ElevenLabs voice generator can deliver high-quality, human-like speech in 32 languages. Perfect for audiobooks, video voiceovers, commercials, and more.
+
+- [vidby](https://vidby.com)  
+   AI-powered software for rapid and accurate video and document translation, subtitling, and dubbing.
 
 ---
 
@@ -517,6 +512,9 @@
 
 - [bolt](https://bolt.new)  
    Prompt, run, edit, and deploy full-stack web apps.s
+
+- [GPT All Star](https://github.com/kyaukyuai/gpt-all-star)  
+   AI-powered code generation tool for scratch development of web applications with a team collaboration of autonomous AI agents.
  
 
 #### Code Review
@@ -772,6 +770,12 @@
 
 - [Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners)  
    18 Lessons teaching everything you need to know to start building Generative AI applications.
+
+- [Speak](https://www.speak.com/)  
+   Talk out loud, get instant feedback, and become fluent with the world’s most advanced AI language tutor.
+
+- [Totur GPT](https://github.com/plastic-labs/tutor-gpt)  
+   Tutor-GPT is an LLM powered learning companion. It dynamically reasons about your learning needs and updates its own prompts to best serve you.
 
 ---
 
@@ -1291,6 +1295,9 @@
 
 - [LiveKit](https://livekit.io)  
    Build realtime AI. Instantly transport audio and video between LLMs and your users.
+
+- [PromptMage](https://promptmage.io)  
+   PromptMage is a python framework to simplify the development of complex, multi-step applications based on LLMs.
 
 ---
 
