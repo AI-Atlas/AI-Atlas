@@ -346,6 +346,9 @@
 - [HeyGen](https://www.heygen.com)  
    Create and translate videos with AI. Produce studio-quality videos in 175 languages without a camera or crew.
 
+- [Runway](https://runwayml.com)  
+   Runway is an applied research company building the next era of art, entertainment and human creativity.
+
 #### Modeling & 3D
 
 - [Genie](https://lumalabs.ai/genie)  
