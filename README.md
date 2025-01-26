@@ -949,6 +949,9 @@
 - [PetSpotR](https://github.com/gh-productivity-workshops/PetSpotR)  
    Demo application that showcases a modern, cloud-native application with Codespaces and Copilot.
 
+- [Raycast-G4F](https://github.com/XInTheDark/raycast-g4f/)  
+   Raycast extension to use GPT, Claude, Llama, and more... all for FREE! + Full support for custom APIs.
+
 ---
 
 ### 📦 Models & LLMs
@@ -1186,6 +1189,9 @@
 
 - [Relevance AI](https://relevanceai.com)  
    From AI tools to AI agents to multi-agent teams, anyone can build and manage an entire AI workforce in one powerful visual platform.
+
+- [OmniAI](https://getomni.ai)  
+   Omni turns documents, slide decks, websites and more into the data you need. You'll never need to copy + paste data into spreadsheets again.
 
 ---
 
