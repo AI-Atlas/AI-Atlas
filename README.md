@@ -518,6 +518,9 @@
 
 - [GPT All Star](https://github.com/kyaukyuai/gpt-all-star)  
    AI-powered code generation tool for scratch development of web applications with a team collaboration of autonomous AI agents.
+
+- [Amplication](https://amplication.com)  
+   Quickly build, maintain, and scale backend services that embed your company’s best practices and standards. Avoid fragmented workflows and ensure your development teams follow the Golden Paths.
  
 
 #### Code Review
@@ -1307,6 +1310,9 @@
 
 - [PromptMage](https://promptmage.io)  
    PromptMage is a python framework to simplify the development of complex, multi-step applications based on LLMs.
+
+- [Argilla](https://docs.argilla.io/latest/)  
+   Argilla is a collaboration tool for AI engineers and domain experts to build high-quality datasets.
 
 ---
 
