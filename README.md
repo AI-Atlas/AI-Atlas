@@ -278,10 +278,10 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Userology](https://www.userology.co/)  
    Userology.co uses conversational AI to moderate usability testing sessions, helping you 10x the quality of insights much faster without human intervention. 
 
-- [Thumb Zone](https://www.thumbzone.ai/)  
+- [Thumb Zone](https://www.thumbzone.ai)  
    Eliminate the survival bias in your design decisions by looking into user persona, qualitative data, and user interaction.
 
-- [Open Canvas](https://opencanvas.langchain.com/)
+- [Open Canvas](https://opencanvas.langchain.com/)  
    Open Canvas Chat UX by LangChain.
 
 #### Viedo & Multi-Media
