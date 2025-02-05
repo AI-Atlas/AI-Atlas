@@ -281,9 +281,6 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [Thumb Zone](https://www.thumbzone.ai)  
    Eliminate the survival bias in your design decisions by looking into user persona, qualitative data, and user interaction.
 
-- [Open Canvas](https://opencanvas.langchain.com/)  
-   Open Canvas Chat UX by LangChain.
-
 #### Viedo & Multi-Media
 
 - [Runway](https://runwayml.com/)  
@@ -1316,6 +1313,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 
 - [Argilla](https://docs.argilla.io/latest/)  
    Argilla is a collaboration tool for AI engineers and domain experts to build high-quality datasets.
+
+- [Open Canvas](https://opencanvas.langchain.com/)  
+   Open Canvas Chat by LangChain.
 
 ---
 
