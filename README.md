@@ -177,6 +177,9 @@ This is an atlas of AI tools that are available on the web. This directory conta
 - [edge-tts](https://github.com/rany2/edge-tts)  
    Use Microsoft Edge's online text-to-speech service from Python WITHOUT needing Microsoft Edge or Windows or an API key.
 
+- [Zonos](https://github.com/Zyphra/Zonos)   
+   Zonos is a text-to-speech system that uses a large language model to generate speech from text. [Website](https://playground.zyphra.com/)
+
 ---
 ### 🎙️ Audio Generation
 
