@@ -1347,3 +1347,5 @@ The list is not complete also with the speed of the AI industry, there is a lot 
 ---
 
 Created by [Mosn](https://forge.mosn.me?ref=github-ai)
+
+- [Expify - Ultimate AI Tools Directory](https://www.expify.ai) - [GitHub](https://github.com/kherona/expify.ai)
